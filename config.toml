@@ -1,4 +1,4 @@
-baseURL = "http://smalltownkitten.com"
+baseURL = "https://blog.smalltownkitten.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "smalltownkitten"
