@@ -35,11 +35,11 @@ A few years after Jake’s ill informed comment, my grandmother came to my
 middle school graduation. The principal pronounced my name “Sarah
 Leemin” when I walked across the stage. My grandmother hugged me
 afterward and said “I’m so proud of you, but the principal said
-“Leemin”! That’s not our *family* name!” My grandmother was appalled.
+'Leemin!' That’s not our *family* name!” My grandmother was appalled.
 What did she live for if not to be recognized at her fifth youngest
 grandchild’s middle school graduation ceremony? She said “That’s not our
 *family* name” as if we were part of a large dynasty- as if I was a
-Rockefeller, or a Kardashian.
+Rockefeller or a Kardashian.
 
 I was panicked. I wanted to take my grandmother aside and tell her my
 secret. “I'm gonna be real frank with you here, Gram. It's either we
@@ -108,8 +108,8 @@ all the work. In all honesty, I think my cat is very nice. I’m just
 projecting my sex based fears onto my pet, so that’s where my head is
 at.
 
-Justin and I do not have kids. I feel a certain amount of pressure from
-family to have kids at this age. I’m also an only child, which means I
+Justin and I do not have kids. I feel a certain amount of pressure to 
+have kids at this age. I’m also an only child, which means I
 am my parents’ only hope for beautiful and precious little baby angel
 grandchildren. I tell my mom I don’t want to have kids and she says
 things like, “I know you say that now, but you’ll change your mind.”
