@@ -2,11 +2,11 @@
     "title": "Name, Age, Status",
     "author": "Sarah",
     "date": "2020-11-10T22:13:17.3176328-05:00",
-    "summary": "This is what I am going to write on the next form that asks for my first and last name, age, and marital status.",
+    "summary": "This is what I am going to write on the next form that asks for my first and last name, age, and marital status",
     "tags": []
 }
 **This is what I am going to write on the next form that asks for my
-first and last name, age, and marital status**
+first and last name, age, and marital status.**
 
 **Name.** My first name is Sarah. I know what your next question is. The
 answer is yes. It *is* spelled with an *H*. Just kidding. No one
