@@ -59,7 +59,7 @@ task of scrubbing it. I guess they think it’s too hard to look sexy
 cleaning a blender. (I, for one, disagree. I personally look hot as hell
 when I clean mine.)*
 
-My *HUGE* breakfast gives me tons of energy for my next two hours of
+“My *HUGE* breakfast gives me tons of energy for my next two hours of
 exercise. And that’s it! I’m ready to take on the day!*” Like and
 subscribe, like and subscribe.*
 
