@@ -80,7 +80,7 @@ url = "mailto:sarah@smalltownkitten.com"
   [[server.headers]]
     for = "/**"
     [server.headers.values]
-      Content-Security-Policy = "script-src localhost:1313"
+      Content-Security-Policy = "script-src localhost:1313 blog.home.serv:1313"
       Referrer-Policy = "strict-origin-when-cross-origin"
       Access-Control-Allow-Origin = "*"
       X-Content-Type-Options = "nosniff"
