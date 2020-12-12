@@ -3,9 +3,7 @@
     "author": "Sarah",
     "date": "2020-12-10T22:24:17.318213171-05:00",
     "summary": "Well this is happening",
-    "tags": [
-        ""
-    ]
+    "tags": []
 }
 I always told myself I wouldn’t pull out the gray hairs. I wanted to
 just let it happen. To surrender. I wanted to embrace it, for one, but
