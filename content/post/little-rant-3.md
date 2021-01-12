@@ -2,7 +2,7 @@
     "title": "Little Rant #3",
     "author": "Sarah",
     "date": "2021-01-12T11:12:18.259130253-05:00",
-    "summary": "To the person who told me about their colleague’s kidney stones-",
+    "summary": "To the person who told me about their colleague’s kidney stones",
     "tags": [
         "rant"
     ]
