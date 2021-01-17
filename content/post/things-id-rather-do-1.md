@@ -2,7 +2,7 @@
     "title": "Things I'd Rather Do #1",
     "author": "Sarah",
     "date": "2021-01-16T21:22:15.81776256-05:00",
-    "summary": "Things I'd rather do than go to work on Monday-",
+    "summary": "Things I'd rather do than go to work on Monday",
     "tags": [
         "thingsidratherdo"
     ]
