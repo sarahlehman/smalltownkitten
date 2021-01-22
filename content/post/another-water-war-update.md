@@ -2,12 +2,12 @@
     "title": "Another Water War \"Update\"",
     "author": "Sarah",
     "date": "2021-01-22T18:43:39.784787907-05:00",
-    "summary": "Not relevant",
+    "summary": "Not important",
     "tags": [
         "waterdeliverysaga"
     ]
 }
-You have been forewarned that this post contains no relevant
+You have been forewarned that this post contains no important
 information. (Maybe I should just begin every post with that statement?)
 Seriously if this were a book, the content of this post would definitely
 not qualify as a chapter. There is truly nothing that furthers the plot
