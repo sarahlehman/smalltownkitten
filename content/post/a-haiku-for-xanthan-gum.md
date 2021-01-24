@@ -7,8 +7,6 @@
         "haiku"
     ]
 }
-Xanthan gum, help me
-
-You’re in each thing I consume
-
+Xanthan gum, help me\
+You’re in each thing I consume\
 What, pray tell, are you?
