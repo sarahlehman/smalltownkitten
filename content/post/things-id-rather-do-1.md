@@ -95,9 +95,9 @@ had a run-in at produce
 
 Flossing (teeth, and viral dance craze)
 
-Get caught masterbating
+Get caught masturbating
 
-Catch someone masterbating
+Catch someone masturbating
 
 Read *The Grapes of Wrath*
 
