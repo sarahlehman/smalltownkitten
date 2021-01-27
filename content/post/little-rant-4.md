@@ -9,7 +9,7 @@
 }
 **To the person who can’t stop bragging about high school-**
 
-I listened to an acquaintance retell (and revel in) their high school
+I listened to an acquaintance retell and revel in their high school
 experiences. He was the star quarterback. Although injuries prevented
 him from going pro (likely story), people *urged* him to never give up
 the game because of his *immense* talent. He got along with *all* of the
@@ -22,8 +22,8 @@ figure this out and good thing, because guess what I didn’t) I can
 deduce that these supposedly real events occurred 25 to 30 years ago. I
 think in order to show others how it feels to listen to this, I will
 start bragging about things *I* achieved 25 to 30 years ago. “Oh my god,
-guys, at two months of age, I started walking, and let me tell you, all
-*hell* broke loose. My parents were *so* proud. And I was *so* fast,
+guys, at twelve months of age, I started walking, and let me tell you,
+all *hell* broke loose. My parents were *so* proud. And I was *so* fast,
 they had a hard time catching me\! Also did you guys know I started
 holding a spoon by myself at 8 months? I mean, that’s pretty early. I
 can still do it to this day. *Watch*.”
