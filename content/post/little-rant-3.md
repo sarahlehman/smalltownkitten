@@ -19,10 +19,10 @@ I'm sorry but you cannot just *not* provide further information. What
 kind of tea was she drinking? Was it the powdery kind you stir in? Was
 it a Lipton situation? Green? Black? Oolong? Is there a lawsuit pending,
 or is this a common-knowledge-drink-at-your-own-risk type deal? Should
-it come with a warning? Should we alert the Surgeon General? (I
+it come with a warning? Should we alert the Surgeon General? I
 personally don’t know much about the Surgeon General’s job
-responsibilities, but I know for damn sure I’ve seen the title on
-bottles of liquor and there seem to be parallels here?)
+responsibilities, but I know for damn sure I’ve seen the title on liquor
+bottles and there seem to be parallels here.
 
 I’m now afraid of something I didn't even know I had to fear. Every time
 I have any kind of discomfort, I assume I’m going to piss out a pebble.
