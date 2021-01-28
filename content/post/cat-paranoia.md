@@ -23,32 +23,34 @@ bed (at one o’clock in the morning) and cover the floss up with
 something to prevent this impending disaster. You know what I’ll just
 stop flossing. I knew nothing good would ever come of this.
 
-Side note- Is this how people with babies feel about babies?
+(Side note- Is this how people with babies feel about babies?)
 
 I give Nugget some catnip, but as I am putting it on the floor for him
 to roll around in and enjoy, I realize some of the pieces appear to be
 VERY large and VERY sharp. What if it stabs the inside of his mouth? One
-time, a bee flew into one of my parents’ cat’s mouths. It buzzed around
-in there for a second and then the cat opened his mouth and released the
-bee. I looked past his sharp teeth and saw a black spot on the roof of
-his mouth, which I was convinced was the bee’s stinger (is that a real
-word? Stinger? Is that anatomically correct?) and immediately panicked.
-My mom told me it was probably just a birthmark. Honestly even if a
-bee’s stinger did get lodged into the roof of this particular cat’s
-mouth, he would probably be fine. He’s a demon cat, so the stinger would
-most likely just give him more Satanic power. Wait maybe the stinger is
-*why* he is evil… I have to text my mom.
+time, a bee flew into the mouth of one of my parents’ cats. It buzzed
+around in there for a second and then the cat opened his mouth and
+released the bee. I looked past his sharp teeth and saw a black spot on
+the roof of his mouth, which I was convinced was the bee’s stinger (Is
+that a real word? Stinger? Is that anatomically correct?) and
+immediately panicked. My mom told me it was probably just a birthmark.
+Honestly even if a bee’s stinger did get lodged into the roof of this
+particular cat’s mouth, he would probably be fine. He’s a demon cat, so
+the stinger would most likely just give him more Satanic power. Wait
+maybe the stinger is *why* he is evil… I have to text my mom.
 
-Back to Nugget. I give him his wet food in the morning and then go to
-hop in the shower, but then I imagine him choking on said food while I’m
-shampooing my hair. I mean I cut up all the big pieces I thought he
-couldn’t handle, but what if it just goes down the wrong pipe and I
-can’t hear him suffering? I settle on creepily supervising him while
-he eats like I am a lunch room monitor, as if I even know what to do if
-he DOES start choking (I’ve read the instructions on how to perform cat
-CPR, but I feel like it’s something you have to learn by doing?) “Why am
-I late for work? Oh, yeah… sorry about that… I had to watch my cat
-complete his breakfast.”
+Back to Nugget.
+
+I give him his wet food in the morning and then go to hop in the shower,
+but then I imagine him choking on said food while I’m shampooing my
+hair. I mean I cut up all the big pieces I thought he couldn’t handle,
+but what if it just goes down the wrong pipe and I can’t hear him
+suffering? I settle on creepily supervising him while he eats like I am
+a lunch room monitor, as if I even know what to do if he DOES start
+choking. (I’ve read the instructions on how to perform cat CPR, but I
+feel like it’s something you have to learn by doing?) “Why am I late for
+work? Oh, yeah… sorry about that… I had to watch my cat complete his
+breakfast.”
 
 What if I put lotion on my hands and then he licks my hand, or I pet him
 before the lotion is fully absorbed, and there’s something toxic to cats
