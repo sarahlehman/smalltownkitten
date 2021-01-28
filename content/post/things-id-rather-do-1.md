@@ -53,7 +53,7 @@ alive)\
 Flat tire, sans roadside assistance\
 \
 \
-Go to gynecologist (presumably for my two aforementioned UTIs and
+Go to the gynecologist (presumably for my two aforementioned UTIs and
 unusually long period)\
 \
 \
@@ -65,8 +65,9 @@ Lick an ATM\
 \
 Notice that there is no toilet paper in a public bathroom stall after I
 have defecated, meaning I have to quickly relocate to another stall,
-praying that no one walks in and sees me pantsless and unwiped in the 3
-second duration it takes to make it to the safety of the second stall\
+praying that no one else walks in and sees me pantsless and unwiped in
+the 3 second duration it takes to make it to the safety of the second
+stall\
 \
 \
 Slip on ice (hit head)\
