@@ -141,7 +141,7 @@ not feel good physically or emotionally. I couldn’t shake the feeling
 that my personal world was ending all the time, and I had a sneaking
 suspicion I could feel better. (Quick shout out to Justin for pushing me
 to talk to someone about my deepest insecurities and giving me the
-courage to do so). Physically, it felt like my heart was running a
+courage to do so.) Physically, it felt like my heart was running a
 constant fever. I was like the glass of water you fill up before bed.
 You filled it up too much and now you’re carrying it to bed with you,
 but you’re also trying to carry your phone and a book or something and
@@ -190,21 +190,21 @@ move forward. At this moment, and probably until the end of time, it’s
 very personal and very protected. I treat the journey like treasure. Who
 wants to share their treasure with everyone? I mean, yeah, sure, give
 some treasure to your close friends if you trust them with it, but you
-don’t want to go handing out your treasure all willy nilly.
+don’t want to go handing out your treasure all willy-nilly.
 
 I will say that evicting anxiety is like breaking up with an incredibly
 toxic girlfriend or boyfriend. Anxiety repeatedly tells you, “You're
-nothing without me. *I'm* the reason you're successful. Without me,
-you'd be nothing. I push you to be your best. The only reason people
-like you is because of me.” But once you’re able to say, “Look asshole,
-this isn’t working and you’re taking everything out of me and making me
-hate myself and I can’t handle this constant pressure in my chest
-anymore,” a weight is lifted. Sure, your anxiety might try to sneak its
-way back into your life when there’s an opening. It might try and lure
-you in, as an ex would do, with promises of change. But your anxiety is
-ultimately just trying to own you. It’s trying to live inside of you
-rent free. It’s squatting. It’s drinking all the beer and throwing the
-empty cans all over the place without any regard for your soul.
+nothing without me. *I'm* the reason you're successful. I push you to be
+your best. The only reason people like you is because of me.” But once
+you’re able to say, “Look asshole, this isn’t working and you’re taking
+everything out of me and making me hate myself and I can’t handle this
+constant pressure in my chest anymore,” a weight is lifted. Sure, your
+anxiety might try to sneak its way back into your life when there’s an
+opening. It might try and lure you in, as an ex would do, with promises
+of change. But your anxiety is ultimately just trying to own you. It’s
+trying to live inside of you rent free. It’s squatting. It’s drinking
+all the beer and throwing the empty cans all over the place without any
+regard for your soul.
 
 My anxiety still taps me on the shoulder from time to time. I was
 recently a reference for a cat adoption and treated it like I was being
@@ -222,19 +222,19 @@ and I will feel guilty for the rest of my life. Sometimes, I still get
 the creeping feeling that I am not enough.
 
 But thanks to myself, and my very lovely and much appreciated and
-seriously treasured therapist, I know that I will be okay. That it only
-*feels* like the world is ending. I can reset. I can talk to myself
-using kind words. I can go for a walk. I can remind myself (and now
-actually *believe*) that I am enough. I can separate myself from the GAD
-and overcome it. (Separating myself from the acid reflux is still a
-challenge. I like buffalo chicken too much.)
+seriously treasured therapist, and my loved ones, I know that I will be
+okay. That it only *feels* like the world is ending. I can reset. I can
+talk to myself using kind words. I can go for a walk. I can remind
+myself (and now actually *believe*) that I am enough. I can separate
+myself from the GAD and overcome it. (Separating myself from the acid
+reflux is still a challenge. I like buffalo chicken too much.)
 
 I’m not really sure where this is going, but I feel as if I should stop
 writing because I’m ready to launch into a tangent about my best buffalo
-chicken wrap experiences. It’s not that I don’t want to go into detail
-on this topic, it’s just that I think my favorite buffalo chicken wraps
-in the tri-state area deserve their own post. I ended up covering a lot
-of ground in part 1 here... I think I need a vacation from writing about
+chicken experiences. It’s not that I don’t want to go into detail on
+this topic, it’s just that I think my favorite buffalo chicken wraps in
+the tri-state area deserve their own post. I ended up covering a lot of
+ground in part 1 here... I think I need a vacation from writing about
 anxiety. Maybe I’ll just write whatever I want about my anxiety whenever
 I damn well feel like it. No structure needed\! Sounds good to me, how
 about you?
