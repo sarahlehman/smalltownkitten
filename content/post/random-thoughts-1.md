@@ -9,9 +9,9 @@
 }
 Do you remember when you were too young to drink legally? When you
 wanted to drink *so badly* because it made you feel *so much* cooler? At
-age 19, it seemed like consumption of alcohol made everything more fun
-and magical. There were no downsides (apart from the puking session that
-may or may not ensue later on).
+age 19, it seemed like the consumption of alcohol made everything more
+fun and magical. There were no downsides (apart from the puking session
+that may or may not ensue later on).
 
 I, personally, used to forage for liquor in college. I was a person
 collecting recyclables from garbage cans with a grocery cart.
@@ -25,16 +25,17 @@ over and I would greet them with the eclectic alcohol menu.
 half a bottle of pinot grigio that hasn’t had a cork in it for two
 weeks. Mmm, that sounds good. We have a single shot of whiskey… what
 else… we have what appears to be a full bottle of Three Olives fruit
-loops. Score\! Am I right? Uhhh I also have some Juicy Juice and a crock
-pot my grandparents sent me if we want to get creative? I heard that’s
-how you make homemade wine. How much time do we want to put into this?”
+loops. Score\! *Am I right?* Uhhh I also have some Juicy Juice and a
+crock pot my grandparents sent me if we want to get creative? I heard
+that’s how you make homemade wine. How much time do we want to put into
+this?”
 
 But as soon as you turn 21, you don’t feel like sharing leftover liquor
 with your friends anymore. Game over. You get greedy because you’ve been
 spending a lot of money at bars trying to prove you belong. It’s a BYOB
-situation from then on. When your friends come over, they look in your
-fridge and see one can of shitty beer and a frozen pizza. And you are
-not sharing any of that pizza.
+situation from then on out. When your friends come over, they look in
+your fridge and see one can of shitty beer and a frozen pizza. And you
+are not sharing any of that pizza.
 
 Speaking of pizza, have you seen some of the pizza that is available to
 the American public nowadays? We have buffalo chicken pizza, barbecue
@@ -53,13 +54,13 @@ cone, or on a pizza?”
 or for those looking for a healthy option we can also do the sundae on a
 gluten free, cauliflower crust too.”
 
-Also side note- Does anyone else think the whole gluten sensitivity
+(Also side note- Does anyone else think the whole gluten sensitivity
 thing is kind of bullshit? Like “gluten intolerant” is just a euphemism
 for IBS? I’m sorry. That was a gluten insensitive thing to say… I’m
 *KIDDING*. Don’t worry. Obviously I believe it’s a real thing. I believe
 the Earth is round and that we landed on the moon, too. I’m not a
-*monster*.
+*monster*.)
 
 ANYWAY, I recommend the General Tso's pizza if you can find it anywhere.
 I don’t think I’ve ever eaten something so borderline blasphemous that
-tasted so delicious. Four stars (out of four). Highly recommend.
+tasted so delicious. Five stars (out of five). Highly recommend.
