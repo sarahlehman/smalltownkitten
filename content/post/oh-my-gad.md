@@ -153,14 +153,14 @@ beating myself up all of the time and I couldn’t stop ruminating. In my
 anxiety riddled head, everyone I knew was joining in like an evil and
 repetitive chorus of doom.
 
-Once I went to therapy, I realized that not everyone else was as anxious
-as me. This may seem like an obvious thing after the whole “anxiety
+Once I went to therapy, I realized that not everyone else was anxious
+like me. This may seem like an obvious thing after the whole “anxiety
 attack at work and also in a car thing” but it really wasn’t. After
 therapy I had thoughts like, “Wait, not everyone reads an email 3,000
-times before sending it? No one else feels like they *absolutely must*
-use a ruler to draw lines on a piece of paper if it’s not already lined
-before they write everything down, to ensure the text will be perfectly
-straight and evenly spaced?” News to me.
+times before sending it? Other people don’t feel like they *absolutely
+must* use a ruler to draw lines on a piece of paper if it’s not already
+lined before they write everything down, to ensure the text will be
+perfectly straight and evenly spaced?” News to me.
 
 I remember coming home after the first few weeks of therapy and asking
 Justin, “Do you think I have an anxiety disorder?” It’s my recollection
@@ -187,10 +187,10 @@ I’m not going to go into graphic detail about the time spent with my
 (very lovely and much appreciated and seriously treasured) therapist, or
 the realizations I had to come to (and accept) about my past in order to
 move forward. At this moment, and probably until the end of time, it’s
-very personal and very protected. I treat the journey like a treasure.
-Who wants to share their treasure with everyone? I mean, yeah, sure,
-give some treasure to your close friends if you trust them with it, but
-you don’t want to go handing out your treasure all willy nilly.
+very personal and very protected. I treat the journey like treasure. Who
+wants to share their treasure with everyone? I mean, yeah, sure, give
+some treasure to your close friends if you trust them with it, but you
+don’t want to go handing out your treasure all willy nilly.
 
 I will say that evicting anxiety is like breaking up with an incredibly
 toxic girlfriend or boyfriend. Anxiety repeatedly tells you, “You're
@@ -213,15 +213,13 @@ about my boyfriend’s sister’s cat ownership history? Am I a fraud? Is
 this punishable by law? Does Betty at the cat adoption center know my
 full name, where to find me?* But of course, the adoption was a success
 and I breathed a sigh of relief knowing I contributed to something
-special.
-
-I still get a little anxious when I have to drive with someone else in
-the car, or when I have to go into the dark basement to get my laundry,
-or if I am going to have company at the house. I still hesitate to call
-my family members because I worry they might be driving and that when
-they pick up my phone call, they will be in a horrific car accident and
-I will feel guilty for the rest of my life. Sometimes, I still get the
-creeping feeling that I am not enough.
+special. I still get a little anxious when I have to drive with someone
+else in the car, or when I have to go into the dark basement to get my
+laundry, or if I am going to have company at the house. I still hesitate
+to call my family members because I worry they might be driving and that
+when they pick up my phone call, they will be in a horrific car accident
+and I will feel guilty for the rest of my life. Sometimes, I still get
+the creeping feeling that I am not enough.
 
 But thanks to myself, and my very lovely and much appreciated and
 seriously treasured therapist, I know that I will be okay. That it only
@@ -235,10 +233,10 @@ I’m not really sure where this is going, but I feel as if I should stop
 writing because I’m ready to launch into a tangent about my best buffalo
 chicken wrap experiences. It’s not that I don’t want to go into detail
 on this topic, it’s just that I think my favorite buffalo chicken wraps
-in the tri-state area deserve their own post.
+in the tri-state area deserve their own post. I ended up covering a lot
+of ground in part 1 here... I think I need a vacation from writing about
+anxiety. Maybe I’ll just write whatever I want about my anxiety whenever
+I damn well feel like it. No structure needed\! Sounds good to me, how
+about you?
 
-I ended up covering a lot of ground in part 1 here... I think I need a
-vacation from writing about anxiety. Maybe I’ll just write whatever I
-want about my anxiety whenever I damn well feel like it. No structure
-needed\! Sounds good to me, how about you? Well, you don’t really have a
-say in the matter anyway. :wink:
+Well, you don’t really have a say in the matter anyway. :wink:
