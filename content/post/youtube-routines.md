@@ -16,7 +16,7 @@ like me think watching someone else’s bullshit morning routine will
 change our lives. If you end up in a morning routine rabbit hole as
 often as I do, you will probably end up hating yourself for waking up at
 11AM the next morning and drinking a cup of coffee *before* you drink a
-gallon of lemon water (I know, it’s a *sin*).
+gallon of lemon water. (I know, it’s a *sin.*)
 
 This is usually how it goes:
 
@@ -59,8 +59,8 @@ task of scrubbing it. I guess they think it’s too hard to look sexy
 cleaning a blender. (I, for one, disagree. I personally look hot as hell
 when I clean mine.)*
 
-“My *HUGE* breakfast gives me tons of energy for my next two hours of
-exercise. And that’s it! I’m ready to take on the day!*” Like and
+My *HUGE* breakfast gives me tons of energy for my next two hours of
+exercise. And that’s it\! I’m ready to take on the day\!*”* *Like and
 subscribe, like and subscribe.*
 
 Substitute the lemon water for hot green tea. Substitute the mindful
@@ -68,13 +68,14 @@ stretching for a half-marathon. It’s all the same. You get the gist.
 You’ve seen it. I’m not saying there is anything wrong with having a
 morning routine. Routines are not bad things. I have nothing against
 lemon water. In fact, I enjoy it. Gratitude is not an issue. I don’t
-have a problem with meditation. I have a problem with people editing
-their lives so heavily that it doesn’t include any of the messy, very
-REAL parts that everyone has to deal with on a daily basis. You’ve
-altered your reality so much that it doesn’t even look believable
-anymore. And then you double down by trying to sell it to other people
-as real life. People watch these videos and they think they’re in the
-wrong for actually *living.*
+have a problem with meditation.
+
+I have a problem with people editing their lives so heavily that it
+doesn’t include any of the messy, very REAL parts that everyone has to
+deal with on a daily basis. You’ve altered your reality so much that it
+doesn’t even look believable anymore. And then you double down by trying
+to sell it to other people as real life. People watch these videos and
+they think they’re in the wrong for actually *living.*
 
 SO DON’T BE AFRAID TO DRINK YOUR COFFEE BEFORE YOUR WATER. DON’T BE
 AFRAID TO SLEEP IN ON SATURDAY. And if you hate green smoothies, don’t
