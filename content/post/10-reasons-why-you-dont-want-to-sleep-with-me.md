@@ -12,10 +12,10 @@ in that way too. I haven’t had many reviews. What I mean is that I’m an
 awful person to share a bed with. Here are the top 10 reasons why you
 don’t want to sleep with me.
 
-1\. I occupy 70-75% of the bed. (Justin would say it’s closer to 90% and
-he is probably right. I’m admittedly trying to save some face here.) I
-am most comfortable in the middle of the bed and I see little I can do
-to change my ways at this point. There is now a shallow ravine in the
+1\. I occupy 70-75% of the bed. Justin would say it’s closer to 90% and
+he is probably right. I’m admittedly trying to save some face here. I am
+most comfortable in the middle of the bed and I see little I can do to
+change my ways at this point. There is now a shallow ravine in the
 middle because of my nightly positioning, and I can’t seem to climb up
 said ravine in order to give him more space.
 
@@ -38,11 +38,11 @@ will follow you. I am a bit of a blob myself, expanding to the entire
 space I am given with extreme ease.
 
 5\. I often feel the need to burrow my feet under something. I guess
-also for warmth? The something usually ends up being Justin’s legs. A
+also for warmth? The “something” usually ends up being Justin’s legs. A
 pillow just doesn’t have the same weight. Don’t forget that I’m also
-rubbing my feet together *while* I’m burrowing. These two motions are
-happening simultaneously and it’s not exactly comfortable for the person
-on the receiving end.
+rubbing my feet together. So the rubbing and burrowing motions are
+happening simultaneously and I’ve been informed it’s not exactly
+comfortable for the person on the receiving end.
 
 6\. Once I’m asleep, I snore very loudly. Justin has heard my parents
 snore and says I sound just like them. We are a family of chainsaws.
