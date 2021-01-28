@@ -17,9 +17,9 @@ the driveway. I begrudgingly walk into the kitchen and grab the empty
 water jug (yes, only one… a singular jug this time, and to be honest I
 don’t quite understand how everyone in this office is still *alive* with
 the scant amount of water that is being consumed here). I place the jug
-outside so water-delivery-guy knows how many to bring inside. (After all
+outside so water-delivery-guy knows how many to bring inside. After all
 these weeks, I still want to make life easier for him. Even after he has
-called me *T* for Tyler, I still care about water-delivery-guy.) I sit
+called me *T* for Tyler, I still care about water-delivery-guy. I sit
 back down at my desk and think about what will happen today. Will
 water-delivery-guy hazard a guess at my name? Will he call me *L*? Maybe
 *M*? Or *N*? *O?* *P*?\! Maybe I’ll just go to the bathroom and tell
@@ -40,10 +40,8 @@ two sign my name, but he signed my name with an *H*. The elusive *H*. (I
 hadn’t mentioned this previously, but water-delivery-guy number one
 always signed my name Sara. I’d look at the receipt and think “who the
 hell is this” and then remember. After the first couple times, I got
-used to it.)
-
-Let’s just say I like water-delivery-guy number two. I’m a fan of his
-work. :smirk:
+used to it.) Let’s just say I like water-delivery-guy number two. I’m a
+fan of his work. :smirk:
 
 Water-delivery-guy number two, are you single? I’m not asking for me.
 I’m asking for a friend, of course. *Okay I might love you.* I’m not
@@ -57,7 +55,7 @@ But surprisingly, after my five star experience with water-delivery-guy
 Despite our rocky history, I couldn’t help but wonder... Is he okay? Was
 he let go from the job? Did he quit because he couldn’t achieve his
 unattainable goal of memorizing the names of the customers? I don’t know
-if this is farewell. He could be back in two weeks for all I know. But
+if this is farewell. He could be back in two weeks. But
 water-delivery-guy-number-one, wherever you are, I hope you are well.
 Suddenly I find myself hoping we see each other again.
 
