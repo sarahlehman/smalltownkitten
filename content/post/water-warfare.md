@@ -49,7 +49,7 @@ type away at the computer. Moments pass. I have forgotten that
 water-delivery-guy has to sign my name and he is apparently afraid to
 ask what exactly my name is.
 
-I finally notice he’s waiting for me, and say “Oh, sorry. It’s Sarah.”
+I finally notice he’s waiting for me, and say, “Oh, sorry. It’s Sarah.”
 
 He says, “I’ll have to remember that one\!”
 
@@ -152,8 +152,8 @@ guess. Maybe you should just write “beautiful” or “sweetie” on the
 stupid receipt since that’s what you call me\! You always remember
 that\!
 
-Despite the explosion that is happening internally, I laugh and say “Oh
-no, it’s Sarah.”
+Despite the explosion that is happening internally (is that the
+definition of an implosion?) I laugh and say “Oh no, it’s Sarah.”
 
 He seems ashamed and yells “I knew that\!” in desperation.
 
