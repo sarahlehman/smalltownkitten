@@ -11,10 +11,10 @@ You have been forewarned that this post contains no important
 information. (Maybe I should just begin every post with that statement?)
 Seriously if this were a book, the content of this post would definitely
 not qualify as a chapter. There is truly nothing that furthers the plot
-in here. REGARDLESS...
+in here.
 
-I am saddened to say that I am still in the dark regarding the
-whereabouts of water-delivery-guy number one. I was
+Nevertheless, I am saddened to say that I am still in the dark regarding
+the whereabouts of water-delivery-guy number one. I was
 unfortunately/fortunately not at work on the day of water delivery. (I
 needed a personal day, okay?\! SUE ME. I don’t have to explain why
 because it’s none of your goddamn business. I’m just very tired and
@@ -35,6 +35,6 @@ to the answer. Counting down to the truth.
 
 Also I think I might have lost my mind?
 
-Also ALSO (kind of like a PPS, no?) someone please help me carry this
+Also ALSO (kind of like a P.P.S, no?) someone please help me carry this
 giant ass blue jug into the kitchen. It’s way heavier than the empty
 ones I am accustomed to carrying.
