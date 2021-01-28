@@ -19,14 +19,14 @@ just to pluck out the gray ones, would be the last straw for me.
 When I saw the first gray hair appear, I wasn’t upset. I was a little
 excited even. *If I position my hair in a way so you can see this single
 strand, maybe I’ll get carded less.* But as I began to see more strands
-change, I started to panic. Can I really go through with this? Is this
+change, I started to panic. *Can I really go through with this? Is this
 what I want to do? This isn’t how I pictured it, mainly because my hair
-isn't actually coming in gray at all. It’s coming in *white*. So instead
+isn't actually coming in gray at all. It’s coming in white. So instead
 of looking like Stacy London with her signature gray streak, there is a
 definite Mrs. Claus vibe emerging. Is there a Mrs. Claus look-a-like
 competition in my future? Maybe I should stop wearing red. Or maybe I
 should lean into this and buy one of those bonnet things. Everyone’s
-always talking about how great it is to have a side hustle. These
+always talking about how great it is to have a side hustle.* These
 thoughts might seem like an over-reaction, but I just felt like I missed
 a step. I imagined myself seamlessly transitioning from brown to gray to
 (eventually) white, but now I am thinking we are going straight to
@@ -36,7 +36,7 @@ It isn’t easy for women to let the gray (or white) hair grow. It’s not
 fair that men with gray hair are deemed silver foxes and women with gray
 hair are seen as witches. It isn’t fair that gray hair on a man makes
 him seem older and more distinguished, and gray hair on a woman makes
-her seem… well... just plain old. It’s one of the *many* arenas where a
+her seem… well... just plain old. It’s one of the *many* areas where a
 frustrating double standard exists.
 
 But at the same time, women who decide to have jet black hair at age 60
