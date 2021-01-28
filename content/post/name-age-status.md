@@ -3,7 +3,9 @@
     "author": "Sarah",
     "date": "2020-11-10T22:13:17.3176328-05:00",
     "summary": "This is what I am going to write on the next form that asks for my first and last name, age, and marital status",
-    "tags": []
+    "tags": [
+        "randomthoughts"
+    ]
 }
 **This is what I am going to write on the next form that asks for my
 first and last name, age, and marital status.**
@@ -35,11 +37,11 @@ A few years after Jake’s ill informed comment, my grandmother came to my
 middle school graduation. The principal pronounced my name “Sarah
 Leemin” when I walked across the stage. My grandmother hugged me
 afterward and said “I’m so proud of you, but the principal said
-'Leemin!' That’s not our *family* name!” My grandmother was appalled.
-What did she live for if not to be recognized at her fifth youngest
-grandchild’s middle school graduation ceremony? She said “That’s not our
-*family* name” as if we were part of a large dynasty- as if I was a
-Rockefeller or a Kardashian.
+“Leemin”\! That’s not our *family* name\!” My grandmother seemed
+appalled. What did she live for if not to be recognized at her fifth
+youngest grandchild’s middle school graduation ceremony? She said
+“That’s not our *family* name” as if we were part of a large
+dynasty- as if I was a Rockefeller, or a Kardashian.
 
 I was panicked. I wanted to take my grandmother aside and tell her my
 secret. “I'm gonna be real frank with you here, Gram. It's either we
@@ -47,8 +49,8 @@ sacrifice the family name or Jake Anderson tells the whole school I’m
 sleeping around. Word will spread fast about my promiscuity because
 everyone in my grade just got a cell phone and kids are starting to text
 message and it’s so exciting to send a text that kids are just typing
-‘Hi’ or ‘Sup’ and sending it off into the ether, so can you imagine how
-many forwards *this* news would get?!?!! Your call, Grandmom.”
+‘Hi’ or ‘Sup’ and sending it off into the ether, so can you imagine
+how many forwards *this* news would get?\!?\!\! Your call, Grandmom.”
 
 **Age.** I think I gave away my age by using the name Jake. I don’t know
 many Jakes who are over 40 years of age in the same way I don’t know
@@ -74,7 +76,7 @@ boyfriend Justin. We have been together for about seven years and we
 recently bought a house. We are not married. We love each other and we
 will get married *soon*- it’s just that I’m still waiting for my
 perfectly timed flash mob proposal featuring Michael Buble in a white
-suit and every member of One Direction carrying roses in their mouths
+suit and every member of One Direction carrying roses in their mouths.
 (To those of you who are thinking, “Is One Direction even together
 anymore?” The answer is no. He must reunite the band in order to earn my
 approval.) I’m kidding, but have you seen these things? In my opinion,
@@ -86,7 +88,7 @@ in one of the games. He said, “Hey, come check out my spaceship.”
 “Oh… cool,” I said nonchalantly. I started to walk away, but he stopped
 me.
 
-“No, wait, there’s more! Look at this… hold on… wait for it...
+“No, wait, there’s more\! Look at this… hold on… wait for it...
 *protected cargo hatch*.”
 
 He said this like it was the most exciting and interesting thing he had
@@ -108,31 +110,33 @@ all the work. In all honesty, I think my cat is very nice. I’m just
 projecting my sex based fears onto my pet, so that’s where my head is
 at.
 
-Justin and I do not have kids. I feel a certain amount of pressure to 
-have kids at this age. I’m also an only child, which means I
+Justin and I do not have kids. I feel a certain amount of pressure from
+family to have kids at this age. I’m also an only child, which means I
 am my parents’ only hope for beautiful and precious little baby angel
-grandchildren. I tell my mom I don’t want to have kids and she says
-things like, “I know you say that now, but you’ll change your mind.”
+grandchildren. I tell my mom I don’t think I want to have kids and she
+says things like, “I know you say that now, but you’ll change your
+mind.”
 
 I say, “No, it’s not just that I don’t want kids *right now*. It’s that
 *right now*, I don’t see myself *ever* having them.” She doesn’t give up
 though.
 
-“I *know* you guys are gonna have kids. You wanna know how I know?” She
-continues, without my reply, “Because you’re so good with the cats.”
+“I *know* you guys are gonna have kids. You wanna know how I know?
+Because you’re so good with the cats.”
 
-If anything, I think my love for cats just proves I prefer to have cats
-over children. Also does she think that having a cat is the same thing
-as having a child? Can I crack open a can of salmon pate and feed it to
-my newborn, on a small ceramic dish shaped like a fish, on the dirty
-kitchen floor? These are house cats she is referring to. These are not
-even feral cats that need controlling.
+Although I’m flattered that my mom thinks I’m capable enough to mother a
+child, I think that if my love for cats proves anything it’s that I
+prefer to have cats over children. Also does she think that having a cat
+is the same thing as having a child? Can I crack open a can of salmon
+paté and feed it to my newborn, on a small ceramic dish shaped like a
+fish, on the dirty kitchen floor? These are house cats she is referring
+to. These are not even feral cats that need controlling.
 
 It’s conversations like this that make me reflect on how I was raised.
 Other parents are buying diapers for their little ones. Meanwhile, I’m
 shitting in a litter box in the corner. Other babies are being bathed in
 kitchen sinks and I’m licking myself for three arduous hours to stay
-clean. It would explain a lot of things.
+clean….. it would explain a lot of things.
 
 I don’t want to disappoint my parents though. I’ve always done
 everything that people expect me to do simply because I’m *expected* to.
@@ -142,5 +146,5 @@ looking, most talented, this is actually extremely fucked up why do we
 do this, etc. I was nominated for “Best to Bring Home to Mom and Dad.”
 Notice I said *nominated.* I didn’t win.... and now I’m realizing that
 might be because that little pervert Jake Anderson told the whole school
-that I lay men 15 years ago. My reputation has never recovered. Thanks,
-Grandmom.
+that I lay men 15 years ago. My reputation clearly never recovered.
+(Thanks, Grandmom.)
