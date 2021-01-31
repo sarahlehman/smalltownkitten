@@ -4,7 +4,8 @@
     "date": "2021-01-25T19:17:35.221021892-05:00",
     "summary": "I'm not very good with kids",
     "tags": [
-        "kids"
+        "kids",
+        "anxiety"
     ]
 }
 My dear friend told me she might start sitting a kid. “Sitting” a kid?
@@ -41,7 +42,7 @@ I just feel like I’ve only ever had two kinds of experiences with kids.
 
 Scenario one is they don’t like me *at all*. It’s clear because they are
 giving me the stink eye as I’m trying to speak to them and quite
-honestly, I don’t blame them because I am very ill-prepared for this
+honestly, I don’t blame them because I am *very* ill-prepared for this
 conversation (and also because, as my friend has informed me, if you
 talk to pre-teens like they’re toddlers they will hate you). Scenario
 one usually ends with the child screaming, “MOM\!” or “DAD\!” or “ANYONE
