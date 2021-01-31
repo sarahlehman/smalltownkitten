@@ -4,7 +4,8 @@
     "date": "2021-01-26T19:28:59.326511606-05:00",
     "summary": "To the person who can't stop bragging about high school",
     "tags": [
-        "rant"
+        "rant",
+        "sickofit"
     ]
 }
 **To the person who can’t stop bragging about high school-**
