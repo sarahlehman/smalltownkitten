@@ -4,7 +4,8 @@
     "date": "2021-01-16T21:22:15.81776256-05:00",
     "summary": "Things I'd rather do than go to work on Monday",
     "tags": [
-        "thingsidratherdo"
+        "thingsidratherdo",
+        "workingthat9to5"
     ]
 }
 **Things I’d rather do than go to work on Monday-**
