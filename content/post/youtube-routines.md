@@ -4,7 +4,8 @@
     "date": "2020-11-30T22:37:36.9072829-05:00",
     "summary": "The morning routine videos are getting a little ridiculous",
     "tags": [
-        "media"
+        "media",
+        "sickofit"
     ]
 }
 **In my humble opinion, the morning routine videos on YouTube are
