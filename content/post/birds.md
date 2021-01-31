@@ -4,7 +4,8 @@
     "date": "2020-12-02T19:26:00.919892-05:00",
     "summary": "I have birder aspirations",
     "tags": [
-        "nature"
+        "nature",
+        "randomthoughts"
     ]
 }
 **Birds are growing on me. (Not literally. That would be terrifying.)**
