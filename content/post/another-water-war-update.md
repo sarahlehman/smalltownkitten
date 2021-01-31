@@ -36,5 +36,5 @@ to the answer. Counting down to the truth.
 Also I think I might have lost my mind?
 
 Also ALSO (kind of like a P.P.S, no?) someone please help me carry this
-giant ass blue jug into the kitchen. It’s way heavier than the empty
+giant-ass blue jug into the kitchen. It’s way heavier than the empty
 ones I am accustomed to carrying.
