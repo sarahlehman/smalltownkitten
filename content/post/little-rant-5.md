@@ -5,7 +5,8 @@
     "summary": "To the rude person who recently called my place of employment",
     "tags": [
         "sickofit",
-        "workingthat9to5"
+        "workingthat9to5",
+        "rant"
     ]
 }
 **To the rude person who recently called my place of employment-**
