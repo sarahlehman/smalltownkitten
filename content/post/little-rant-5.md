@@ -45,8 +45,6 @@ the company credit card for personal things (although I would argue this
 could benefit *the whole-of-society*).
 
 I will end this by saying *I know things*. And even if I didn’t know
-about the things you were going to ask me about, but were too sexist to
-do so, (which are honestly things I *think* I would’ve known about
-because you sound like a lamebrain), that doesn’t mean that the things
-*I* know are any less important than the things *you* know. Or *think*
-you know. You know?\!?\!\!
+about the things you were going to ask me about but were too sexist to
+do so, that doesn’t mean that the things *I* know are any less important
+than the things *you* know. Or *think* you know. You know?\!?\!\!
