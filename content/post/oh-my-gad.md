@@ -219,7 +219,10 @@ laundry, or if I am going to have company at the house. I still hesitate
 to call my family members because I worry they might be driving and that
 when they pick up my phone call, they will be in a horrific car accident
 and I will feel guilty for the rest of my life. Sometimes, I still get
-the creeping feeling that I am not enough.
+the creeping feeling that I am not enough. There are also weeks that
+have serious, full blown anxiety attack potential, which let’s be honest
+is probably very much a shared experience in the Year(s) of our Lord
+2020/2021.
 
 But thanks to myself, and my very lovely and much appreciated and
 seriously treasured therapist, and my loved ones, I know that I will be
