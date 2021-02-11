@@ -30,7 +30,7 @@ Also you’re not missing much if you *do* have to look away for a second.
 It’s really just two groups of men taking the game of catch too
 seriously. Sometimes they perform a joyful dance sequence for being good
 at catch. I think that’s fun and it livens things up a little. Adds some
-pizzazz to the field. Some exuberance and character. But the majority of
+pizazz to the field. Some exuberance and character. But the majority of
 time is spent yelling abrupt commands, sprinting like one’s life depends
 on it, and pushing through walls made up entirely of human beings.
 (Correct me if I’m wrong here, but these are things that don’t sound so
