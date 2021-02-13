@@ -40,7 +40,7 @@ wrong. It’s my opinion and I have a right to it, as do you.)*
 Anyway back to the carefree individual holding the gigantic vessel of
 popping corn. It is my belief that in reality no one is actually living
 their life this way. People are not straddling the back of the sofa and
-hopping over it with reckless abandon in order to get to their middle
+hopping over it with reckless abandon in order to get to the middle
 cushion. Why not? Well you might step on your friend’s phone. You might
 spill your hot, buttered pop all over the couch cushions. (Good luck
 getting *that* stain out. I would imagine there’s a lot of “blotting”
