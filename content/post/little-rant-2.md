@@ -7,9 +7,6 @@
         "rant"
     ]
 }
-**To anyone who has ever been made to feel (or has just been straight up
-told) that they are “too much”-**
-
 Too loud, too emotional, too ambitious, too passionate, too irrational,
 etc…
 
