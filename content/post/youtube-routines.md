@@ -2,15 +2,12 @@
     "title": "YouTube Routines",
     "author": "Sarah",
     "date": "2020-11-30T22:37:36.9072829-05:00",
-    "summary": "The morning routine videos are getting a little ridiculous",
+    "summary": "In my humble opinion, the morning routine videos are getting a little ridiculous",
     "tags": [
         "media",
         "sickofit"
     ]
 }
-**In my humble opinion, the morning routine videos on YouTube are
-getting a little ridiculous.**
-
 With names like “A Healthy/Mindful/Productive Morning Routine,” and “How
 to Wake Up at 4AM,” these videos have millions of views because people
 like me think watching someone else’s bullshit morning routine will
