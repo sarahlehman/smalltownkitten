@@ -7,9 +7,6 @@
         "randomthoughts"
     ]
 }
-**This is what I am going to write on the next form that asks for my
-first and last name, age, and marital status.**
-
 **Name.** My first name is Sarah. I know what your next question is. The
 answer is yes. It *is* spelled with an *H*. Just kidding. No one
 actually gives a shit whether or not Sarah is spelled with an *H*. I’ve
