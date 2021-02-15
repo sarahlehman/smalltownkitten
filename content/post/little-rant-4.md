@@ -8,8 +8,6 @@
         "sickofit"
     ]
 }
-**To the person who can’t stop bragging about high school-**
-
 I listened to an acquaintance retell and revel in their high school
 experiences. He was the star quarterback. Although injuries prevented
 him from going pro (likely story), people *urged* him to never give up
