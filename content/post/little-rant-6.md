@@ -9,9 +9,6 @@
         "media"
     ]
 }
-**To the person jumping over the couch with a bowl of popcorn/the person
-who told them to do such a thing-**
-
 It happened again. A Super Bowl commercial featured someone stepping
 *over the back of a couch*, with a large bowl of popcorn in their hands,
 to join a group of their friends watching football. Why? Why does this
