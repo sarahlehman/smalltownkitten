@@ -9,8 +9,6 @@
         "rant"
     ]
 }
-**To the rude person who recently called my place of employment-**
-
 A man called and said to me, "I don't know if I should talk to *you*
 about this, or *someone who actually knows about this stuff*.” Well
 guess what I'm your only option right now. And I might know more about
