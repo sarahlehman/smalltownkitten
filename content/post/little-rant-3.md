@@ -7,8 +7,6 @@
         "rant"
     ]
 }
-**To the person who told me about their colleague’s kidney stones-**
-
 My friend told me that a woman he knew was passing, and I quote, "a shit
 ton of kidney stones." He then proceeded to explain that the reason for
 the copious amount of stones was the quantity of tea she had been
