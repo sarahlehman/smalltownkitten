@@ -8,8 +8,6 @@
         "workingthat9to5"
     ]
 }
-**Things I’d rather do than go to work on Monday-**
-
 \
 Have a UTI\
 \
