@@ -12,12 +12,11 @@
     {{ $options := (dict "includePaths" (slice "node_modules")) }}
     {{ $style := $scss | resources.ToCSS $options | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet"
-          href="{{ $style.Permalink }}"
+          href="{{ $style.RelPermalink }}"
           integrity="{{ $style.Data.Integrity }}"
           crossorigin="anonymous"
           type="text/css">
     
-    <!-- Favicons -->
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ .Site.Params.favicon | absURL }}favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.Params.favicon | absURL }}favicon-16x16.png">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="{{ "/favicon.ico" | RelURL }}" type=image/x-icon>
 </head>

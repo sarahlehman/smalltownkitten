@@ -3,6 +3,6 @@
 {{ $js := slice $clicks $subreq | resources.Concat "js/bundle.js" }}
 {{ $secureJS := $js | resources.Minify | resources.Fingerprint }}
 <script type="text/javascript"
-        src="{{ $secureJS.Permalink }}"
+        src="{{ $secureJS.RelPermalink }}"
         integrity="{{ $secureJS.Data.Integrity }}"
         crossorigin="anonymous"></script>
