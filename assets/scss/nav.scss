@@ -1,0 +1,83 @@
+$navseperatorheight: 22px;
+
+@mixin square($size) {
+    width: $size;
+    height: $size;
+}
+
+.stktop {
+    width: 100%;
+    height: 163px;
+}
+
+.stkbrand {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: calc(80% - 22px);
+    background-color: $white;
+    padding: 16px;
+}
+
+.logo {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.brandtext {
+    padding-right: 8px;
+    .title {
+        font-size: 28px !important;
+        line-height: 1;
+    }
+}
+
+#brandimage {
+    @include square(calc(calc(28px * 3) - calc(calc(28px * 3) * 0.2)))
+}
+
+.social-links {
+    width: 100%;
+    list-style: none;
+    flex: 7;
+    text-align: center;
+    font-size: 24px;
+}
+
+.social-links li {
+    display: inline;
+    padding-right: 1rem;
+    line-height: 0;
+}
+
+.social-links a {
+    color: $dark;
+}
+
+
+.stknav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 16px;
+    padding-right: 16px;
+    width: 100%;
+    height: 20%;
+    border-bottom: $dark solid;
+    border-top: $dark solid;
+    border-width: 1px;
+    font-family: $title-family;
+    font-size: 16px;
+}
+
+#navlinks {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+}
+
+#subbtn {
+    padding-right: 0;
+}

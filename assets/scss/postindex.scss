@@ -1,0 +1,12 @@
+.index-posts {
+    padding-left: .5rem;
+    a {
+        font-family: $family-primary;
+        color: $dark;
+        font-size: 1rem;
+        font-weight: 400;
+    }
+    a:hover {
+        color: $link
+    }
+}
