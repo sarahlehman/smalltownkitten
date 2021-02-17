@@ -6,7 +6,8 @@
   "scripts": {
     "css-build": "node-sass --omit-source-map-url sass/mystyles.scss css/mystyles.css",
     "css-watch": "npm run css-build -- --watch",
-    "start": "npm run css-watch"
+    "start": "npm run css-watch",
+    "site-build": "cp node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2 assets/webfonts && cp node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 assets/webfonts"
   },
   "author": "",
   "license": "ISC",
