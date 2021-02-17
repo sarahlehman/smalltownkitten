@@ -30,6 +30,10 @@ async function postSubscribe($email) {
 var $subscribeModal = document.getElementById("subscribeModal");
 
 function doSubscribe($email) {
+    if ($email.length == 0) {
+        //do nothing
+        return
+    } 
     setLoading(true);
     postSubscribe($email)
         .then($resp => {
@@ -39,7 +43,7 @@ function doSubscribe($email) {
             //hide the modal
             deactivate($subscribeModal);
             //display correct message
-            if (!$resp.statusCode == 200) {
+            if ($resp.statusCode != 200) {
                 show($msgSubError);
                 return
             }

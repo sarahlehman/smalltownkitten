@@ -1,7 +1,7 @@
 {{ $clicks := resources.Get "js/clickHandlers.js" }}
 {{ $subreq := resources.Get "js/handleSubRequest.js" }}
 {{ $js := slice $clicks $subreq | resources.Concat "js/bundle.js" }}
-{{ $secureJS := $js | resources.Fingerprint }}
+{{ $secureJS := $js | resources.Minify | resources.Fingerprint }}
 <script type="text/javascript"
         src="{{ $secureJS.Permalink }}"
         integrity="{{ $secureJS.Data.Integrity }}"
