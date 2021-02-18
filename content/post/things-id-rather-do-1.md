@@ -152,7 +152,7 @@ in the medical field, acid reflux\
 Wear wet jeans and/or sneakers\
 \
 \
-Dance like no one is watching to then discover that someone is, in fact,
+Dance like no one is watching to then discover that someone is in fact
 watching\
 \
 \
