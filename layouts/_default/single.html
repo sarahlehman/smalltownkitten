@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="post post-main">
+    <h1 class="title is-3">{{ .Title }}</h1>
+    {{ if eq .Type "post"}}
+        <p class="subtitle is-5"><p class="subtitle is-5">{{ .Summary }}<br><span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span> / <span class="post-date">{{ .ReadingTime }} minute read</span></p>
+    {{ end }}
+    <div class="content">{{ .Content }}</div>
+</div>
+{{ if eq .Type "post"}}
+    <div class="post post-lite">
+        <div class="tagscontainer">
+            {{ range .Page.Params.Tags }}
+                <a class="tag is-dark" href="{{ ( printf "/tags/%s/" . ) }}">{{ . }}</a>
+            {{ end }}
+        </div>
+    </div>
+{{ end }}
+{{ end }}

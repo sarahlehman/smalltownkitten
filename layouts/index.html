@@ -1,0 +1,26 @@
+{{ define "main" }}
+    {{ $isFirst := true }}
+    {{ range (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+        {{ if $isFirst }}
+            {{ $isFirst = false }}
+            <div class="featured block">
+                <div class="post post-link">
+                <a href="{{ .RelPermalink }}">
+                    <h1 class="title is-3">{{ .Title }}</h1>
+                    <p class="subtitle is-5">{{ .Summary }}<br><span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span></p>
+                    <div class="content">
+                    <p>{{ .Content | truncate $.Site.Params.featureLen }}</p>
+                    </div>
+                </a>
+                </div>
+            </div>
+        {{ else }}
+            <div class="post post-link post-lite block">
+                <a href="{{ .RelPermalink }}">
+                <h1 class="title is-4">{{ .Title }}</h1>
+                <p class="subtitle is-5">{{ .Summary }}<br><span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span></p>
+                </a>
+            </div>
+        {{ end }}
+    {{ end }}
+{{ end }}

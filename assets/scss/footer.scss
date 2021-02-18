@@ -1,0 +1,31 @@
+@import "./bulma/sass/layout/footer.sass";
+
+.foot-flex {
+    display: flex;
+    justify-content: left;
+}
+
+.footer {
+    .post-lite {
+        border-bottom: 2px transparent solid;
+    }
+}
+
+.foot-nav {
+    padding-right: .5rem;
+    border-right: $white-ter solid 2px;
+    text-align: end;
+}
+
+.foot-social {
+    padding-left: .5rem;
+    i {
+        padding-right: .25rem;
+    }
+    a {
+        color: $dark;
+    }
+    a:hover {
+        color: $link;
+    }
+}

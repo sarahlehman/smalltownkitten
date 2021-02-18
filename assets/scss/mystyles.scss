@@ -1,0 +1,111 @@
+@charset "utf-8";
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ramaraja&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&display=swap');
+
+$purple: #c83771;
+$purple-dark: darken($purple, 20%);
+$cyan: #2ad4ff;
+$primary: $cyan;
+$info: $purple;
+
+$link: $purple;
+$link-visited: $purple-dark;
+$link-hover: $cyan;
+
+$family-serif: "EB Garamond", serif;
+$title-family: "DM Serif Text", serif;
+$subtitle-family: "Ramaraja", serif;
+$button-family: $subtitle-family;
+$family-primary: $family-serif;
+
+$section-padding: 1.5rem 1rem;
+
+@import "./bulma/sass/utilities/_all.sass";
+@import "./bulma/sass/base/_all.sass";
+
+$modal-background-background-color: bulmaRgba(darken($cyan, 20%), 0.86);
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    -webkit-tap-highlight-color: transparent; /* for removing the highlight */
+}
+
+@import "./nav.scss";
+
+// Text truncate
+// Requires inline-block or block for proper styling
+@mixin text-truncate() {
+    display: -webkit-box;
+    -webkit-line-clamp: 10;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+.no-padding {
+    padding: 0 !important;
+}
+
+hr {
+    margin: 0 !important;
+    margin-top: 4px !important;
+    background-color: darken($white-ter, 1%)
+}
+
+.block:not(:last-child) {
+    margin-bottom: .5rem;
+}
+
+.stkcontainer {
+    display: flex;
+    flex-flow: column;
+    min-height: calc(80vh - 2px);
+    padding-left: 2px;
+    padding-right: 2px;
+    background-color: darken($white, 1%)
+}
+
+@import "./bulma/sass/elements/other.sass";
+@import "./bulma/sass/layout/hero.sass";
+@import "./post.scss";
+@import "./postindex.scss";
+@import "./footer.scss";
+
+.tagscontainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+.tagscontainer>* {
+    flex: flex-shrink 1 auto;
+    margin: .5rem;
+    margin-left: 0;
+    margin-top: 0
+}
+.tagscontainer a:active {
+    background-color: $cyan;
+    color: $dark;
+} 
+
+.subscriptionmessage {
+    margin-bottom: .5rem !important;
+}
+
+// Import only what you need from Bulma
+@import "./bulma/sass/helpers/typography.sass";
+@import "./bulma/sass/helpers/visibility.sass";
+@import "./bulma/sass/helpers/color.sass";
+@import "./bulma/sass/elements/button.sass";
+@import "./bulma/sass/elements/container.sass";
+@import "./bulma/sass/components/modal.sass";
+@import "./bulma/sass/components/message.sass";
+@import "./bulma/sass/elements/image.sass";
+@import "./bulma/sass/elements/title.sass";
+@import "./bulma/sass/elements/tag.sass";
+@import "./bulma/sass/elements/content.sass";
+@import "./bulma/sass/form/_all.sass";
+@import "./@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "./@fortawesome/fontawesome-free/scss/brands.scss";
+@import "./@fortawesome/fontawesome-free/scss/solid.scss";

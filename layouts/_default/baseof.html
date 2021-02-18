@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{- site.Language.Lang -}}" data-theme="{{- .Site.Params.displayMode -}}">
+{{- partial "head.html" . -}}
+<body>
+<div class="container is-max-desktop main">
+    {{- partial "nav.html" . -}}
+    {{- partial "subscribe.html" . -}}
+    <div class="stkcontainer">
+        {{- partial "messages.html" . -}}
+        {{- block "main" . }}{{- end }}
+    </div>
+    {{- partial "footer.html" . -}}
+</div>
+{{- partial "scripts.html" . -}}
+</body>
+</html>

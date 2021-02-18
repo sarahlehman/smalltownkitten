@@ -1,0 +1,62 @@
+
+.featured {
+    background-color: $white;
+}
+
+.featured .content {
+    @include text-truncate();
+}
+
+.post {
+    width: 100%;
+    border: darken($white-ter, 1%) solid;
+    border-width: 2px;
+    border-radius: .5rem;
+    padding: 1rem;
+    .subtitle {
+        margin-bottom: 1rem;
+    }
+}
+
+.post-lite {
+    border-top: 2px transparent solid;
+    border-left: 2px transparent solid;
+    border-right: 2px transparent solid;
+    .subtitle {
+        margin-bottom: 0;
+    }
+}
+
+.post-link:hover {
+    border: 2px $dark solid;
+}
+
+.post-link:active {
+    background-color: $dark;
+    border: 2px  $link-visited solid;
+    .title, .subtitle, .content {
+        color: $white;
+    }
+}
+
+.post-link a {
+    color: $black;
+}
+
+.post-date {
+    font-family: $family-primary !important;
+    font-size: 1rem !important;
+    color: $info !important;
+}
+
+.post-main {
+    background-color: $white;
+}
+
+.stkcontainer .post-main {
+    flex: 1 1 auto;
+}
+
+#subscribeform {
+    padding-top: 1rem;
+}
