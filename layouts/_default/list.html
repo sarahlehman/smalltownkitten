@@ -1,5 +1,13 @@
 {{ define "main" }}
 <div class="post post-main">
+    {{ if eq .Type "tags" }}
+    <h1 class="title is-4">Tags</h1>
+    <div class="tagscontainer">
+        {{ range .Site.Taxonomies.tags }}
+        <a href="{{ .Page.Permalink }}" class="tag is-dark">{{ .Page.Title }}</a>
+        {{ end }}
+    </div>
+    {{ else }}
     <div class="index-container">
         <ul>
             {{ range .Data.Pages.GroupByDate "2006" }}
@@ -14,5 +22,6 @@
             {{ end}}
         </ul>
     </div>
+    {{ end }}
 </div>
 {{ end }}
