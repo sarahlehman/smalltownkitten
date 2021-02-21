@@ -43,21 +43,21 @@ before I start asking, which may or may not be considered mansplaining).
 ANYWAY, I really appreciate your “acts of service” and I will continue
 to show you affection using *my* love language, which includes:
 
-\- Demanding hourly hugs
+  - Demanding hourly hugs
 
-\- Giving you a dirty look every time you burp (and I don’t mean dirty
-as in sexy. I mean dirty as in if you burp one more goddamn time I am
-going to freak. the fuck. out.)
+  - Giving you a dirty look every time you burp (and I don’t mean
+dirty as in sexy. I mean dirty as in if you burp one more goddamn
+time I am going to freak. the fuck. out.)
 
-\- Asking if you want to feel my leg hair
+  - Asking if you want to feel my leg hair
 
-\- Asking if you want to feel the cyst on my leg that is hopefully
+  - Asking if you want to feel the cyst on my leg that is hopefully
 benign
 
-\- Inventing nicknames for you that you can’t stand but that *mark my
+  - Inventing nicknames for you that you can’t stand but that *mark my
 words will catch on one day, Jubsy*
 
-\- Kicking you in the night
+  - Kicking you in the night
 
 God you are so freaking lucky to have me.
 
