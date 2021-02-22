@@ -27,8 +27,9 @@ and now I’ve been that person for you. Now you won’t be able to view
 snow without thinking of dandruff either. What a terrible, vicious cycle
 this is. (The dandruff comparison is especially disturbing when you see
 someone doing that cliche “stick your tongue out and catch a few
-snowflakes on it” thing.
-[<span class="underline">See?</span>](https://i.pinimg.com/736x/8c/b7/ef/8cb7ef51c762f5646e87f0e24e028fd8.jpg)
+snowflakes on it” thing. [<span class="underline">Please click this to
+get a full
+understanding.</span>](https://i.pinimg.com/736x/8c/b7/ef/8cb7ef51c762f5646e87f0e24e028fd8.jpg)
 *Mmmm, dandruff.*)
 
 **Pro:** I feel a (most likely false) sense of security when there’s a
