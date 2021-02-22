@@ -51,11 +51,12 @@ something I struggle with on occasion. I’m a real catch.
 
 I have had anxiety for as long as I can remember. The condition has
 worsened over the years thanks to some traumatic experiences (a car
-accident here, a robbery there), but it’s my memory that anxiety has
-always been with me in some way or another. I didn’t need an imaginary
-friend growing up because I had the negative self-talk/worry monster by
-my side. (Hey, it’s not a healthy friendship, but there was a
-consistency to it that I couldn’t help but find comforting.)
+accident here, a robbery there, a destructive relationship or two) but
+it’s my memory that anxiety has always been with me in some way or
+another. I didn’t need an imaginary friend growing up because I had the
+negative self-talk/worry monster by my side. (Hey, it’s not a healthy
+friendship, but there was a consistency to it that I couldn’t help but
+find comforting.)
 
 Whenever I feel negative, the monster that is my anxiety pops out like
 the worst kind of jack-in-the-box (all jack-in-the-boxes are pretty much
