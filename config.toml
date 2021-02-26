@@ -6,6 +6,11 @@ summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
 title = "I'm Sarah"
 author = "Sarah Lehman"
