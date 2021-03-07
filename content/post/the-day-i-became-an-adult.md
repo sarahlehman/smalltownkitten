@@ -2,7 +2,7 @@
     "title": "The Day I Became an Adult",
     "author": "Sarah",
     "date": "2021-03-06T12:17:30.039585467-05:00",
-    "summary": "I'm all grown-up now?",
+    "summary": "I'm all grown-up?",
     "tags": [
         "aging",
         "randomthoughts"
