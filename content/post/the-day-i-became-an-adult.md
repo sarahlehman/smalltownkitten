@@ -2,7 +2,7 @@
     "title": "The Day I Became an Adult",
     "author": "Sarah",
     "date": "2021-03-06T12:17:30.039585467-05:00",
-    "summary": "I'm grown-up now",
+    "summary": "I'm all grown-up now?",
     "tags": [
         "aging",
         "randomthoughts"
@@ -31,9 +31,9 @@ air we breathe. It is my understanding that is the primary purpose of a
 fan. I didn’t expect to experience much emotion about purchasing a more
 aesthetically pleasing fan, but I can still feel the mix of excitement
 and anxiety I had as we approached the gleaming display. Knowing that we
-had the freedom and ability to purchase a discounted ceiling fan was
-proof to me that I had done it. I had made it. I’ve never felt like more
-of an adult.
+had the freedom and ability to get a discounted ceiling fan was for some
+reason proof to me that I had done it. I had made it. I’ve never felt
+like more of an adult.
 
 There was something about looking up to the sky (or the exposed ductwork
 of the store...) on that day that made me realize the choices that exist
