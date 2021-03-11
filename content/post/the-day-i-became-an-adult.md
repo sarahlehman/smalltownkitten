@@ -9,20 +9,21 @@
     ]
 }
 I officially became a woman in the lighting section of a Lowe’s Home
-Improvement store. (No, sicko, I didn’t get my period there. I got my
-period *many* years prior in the grubby bathroom of a Don Pablo’s during
-a school trip with my Spanish class.\* I’ve heard some schools actually
-travel to Spain. Not us. We drove the bright yellow school bus 45
-minutes to a tex-mex restaurant for an “authentic dining experience.”
-The most authentic thing to *me* about the trip was *not* the taquitos,
-but the bloody murderscene-esque imagery in the second stall that is now
-burned into my memory. Okay I am going even *further* off topic now but
-you need to know this. I just looked up a Don Pablo’s menu to check that
-they did in fact have taquitos and ensure this story is factually sound.
-Good news- they did. My journalistic integrity remains high. But I
-*also* discovered that they offered something called a “Red River
-Salad,” meaning this rambling parenthetical has come full circle in
-the most fitting way I could have imagined and now we can move on.)
+Improvement store. (No, sicko, I didn’t get my period there. Periods
+don’t signify anything. And I got my period *many* years prior in the
+grubby bathroom of a Don Pablo’s during a school trip with my Spanish
+class.\* I’ve heard some schools actually travel to Spain. Not us. We
+drove the bright yellow school bus 45 minutes to a tex-mex restaurant
+for an “authentic dining experience.” The most authentic thing to *me*
+about the trip was *not* the taquitos, but the bloody murderscene-esque
+imagery in the second stall that is now burned into my memory. Okay I am
+going even *further* off topic now but you need to know this. I just
+looked up a Don Pablo’s menu to check that they did in fact have
+taquitos and ensure this story is factually sound. Good news- they did.
+My journalistic integrity remains high. But I *also* discovered that
+they offered something called a “Red River Salad,” meaning this rambling
+parenthetical has come full circle in the most fitting way I could have
+imagined and now we can move on.)
 
 Even though we already had one, we went to Lowe’s to buy a new ceiling
 fan. Did our fan look like it was from the 1970s? Sure. But it worked.
