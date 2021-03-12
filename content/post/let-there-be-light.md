@@ -16,15 +16,17 @@ him into a real mischievous dickhead. *Foreshadowing… kind of*.) I
 recently chose to relocate the lights higher on the wall and out of
 Nugget’s reach because 1) It’s hard to sleep with the sounds of his
 late-night violence and 2) I’m afraid he will eat them and die.
-([<span class="underline">Cat
-Paranoia</span>](https://blog.smalltownkitten.com/post/cat-paranoia/)
-continues.) I was apparently feeling fun-loving and playful that day
-because I decided not only to reposition the lights, but to shape them
-into whimsical clouds. I made two clouds on the wall behind the bed.
-Because the strand was so long, I made another cloud on the wall with
-the door, which Justin faces while he’s sleeping. The process wasn’t
-easy and I used a lot of tape. The lights looked okay, but I would have
-to wait for it to get dark to get the full picture.
+[<span class="underline">Cat
+paranoia</span>](https://blog.smalltownkitten.com/post/cat-paranoia/)
+continues.
+
+I was apparently feeling fun-loving and playful that day because I
+decided not only to reposition the lights, but to shape them into
+whimsical clouds. I made two clouds on the wall behind the bed. Because
+the strand was so long, I made another cloud on the wall with the door,
+which Justin faces while he’s sleeping. The process wasn’t easy and I
+used a lot of tape. The lights looked okay, but I would have to wait for
+it to get dark to get the full picture.
 
 *Nightfall.* I walk into the bedroom and see the two clouds glowing
 behind the bed. I think, “Wow this turned out pretty well.” We lie down
