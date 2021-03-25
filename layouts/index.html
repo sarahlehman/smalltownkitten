@@ -9,7 +9,7 @@
                     <h1 class="title is-3">{{ .Title }}</h1>
                     <p class="subtitle is-5">{{ .Summary }}<br><span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span></p>
                     <div class="content">
-                    <p>{{ .Content | truncate $.Site.Params.featureLen }}</p>
+                    {{ .Content | truncate $.Site.Params.featureLen }}
                     </div>
                 </a>
                 </div>
