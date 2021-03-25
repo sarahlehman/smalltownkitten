@@ -4,7 +4,7 @@
     <h1 class="title is-3">Tags</h1>
     <div class="tagscontainer">
         {{ range .Site.Taxonomies.tags }}
-        <a href="{{ .Page.Permalink }}" class="tag is-dark">{{ .Page.Title }}</a>
+        <a href="{{ .Page.Permalink }}" class="tag is-light">{{ .Page.Title }}</a>
         {{ end }}
     </div>
     {{ else }}
