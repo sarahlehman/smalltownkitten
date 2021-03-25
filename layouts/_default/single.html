@@ -10,7 +10,7 @@
     <div class="post post-lite">
         <div class="tagscontainer">
             {{ range .Page.Params.Tags }}
-                <a class="tag is-dark" href="{{ ( printf "/tags/%s/" . ) }}">{{ . }}</a>
+                <a class="tag is-light" href="{{ ( printf "/tags/%s/" . ) }}">{{ . }}</a>
             {{ end }}
         </div>
     </div>
