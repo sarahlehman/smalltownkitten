@@ -1,6 +1,8 @@
-{{ $clicks := resources.Get "js/clickHandlers.js" }}
-{{ $subreq := resources.Get "js/handleSubRequest.js" }}
-{{ $js := slice $clicks $subreq | resources.Concat "js/bundle.js" }}
+{{ $.Scratch.Set "jslibs" slice }}
+{{ range $.Site.Params.scripts }}
+       {{ $.Scratch.Add "jslibs" (resources.Get . ) }}
+{{ end }}
+{{ $js := .Scratch.Get "jslibs" | resources.Concat "js/bundle.js" }}
 {{ $secureJS := $js | resources.Minify | resources.Fingerprint }}
 <script type="text/javascript"
         src="{{ $secureJS.RelPermalink }}"
