@@ -7,7 +7,7 @@
                 <div class="post post-link">
                 <a href="{{ .RelPermalink }}">
                     <h1 class="title is-3">{{ .Title }}</h1>
-                    <p class="subtitle is-5">{{ .Summary }}<br><span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span></p>
+                    <p class="subtitle is-5"><p class="subtitle is-5">{{ .Summary }}<br><span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span> / <span class="post-date">{{ .ReadingTime }} minute read</span></p>
                     <div class="content">
                     {{ .Content | truncate $.Site.Params.featureLen }}
                     </div>
@@ -18,7 +18,7 @@
             <div class="post post-link post-lite block">
                 <a href="{{ .RelPermalink }}">
                 <h1 class="title is-4">{{ .Title }}</h1>
-                <p class="subtitle is-5">{{ .Summary }}<br><span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span></p>
+                <p class="subtitle is-5"><p class="subtitle is-5">{{ .Summary }}<br><span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span> / <span class="post-date">{{ .ReadingTime }} minute read</span></p>
                 </a>
             </div>
         {{ end }}
