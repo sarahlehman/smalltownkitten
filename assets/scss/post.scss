@@ -27,18 +27,6 @@
     }
 }
 
-.post-link:hover {
-    border: 2px $dark solid;
-}
-
-.post-link:active {
-    background-color: $dark;
-    border: 2px  $link-visited solid;
-    .title, .subtitle, .content {
-        color: $white;
-    }
-}
-
 .post-link a {
     color: $black;
 }
