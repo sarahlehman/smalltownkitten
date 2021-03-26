@@ -2,7 +2,7 @@
     "title": "Emerging From a Cocoon",
     "author": "Sarah",
     "date": "2021-03-26T19:38:42.252148016-04:00",
-    "summary": "Here we go again",
+    "summary": "Here we go",
     "tags": [
         "weather",
         "anxiety"
@@ -22,8 +22,8 @@ reveal both their inside and outside to others) I dread this time of
 year. I don’t like the longer days because it’s just more daylight from
 which I can’t hide. I much prefer the comfort of an early nightfall,
 when I can cloak myself in darkness at 5pm. My instinct during these
-months is usually to hide and maybe even double down by throwing on an
-extra scarf.
+months is usually to stow away and maybe even double down by throwing on
+an extra scarf.
 
 When people notice my impractical choice of clothing (e.g. a sweater in
 80 degree weather) they usually ask, “Are you cold?”
