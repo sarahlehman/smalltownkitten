@@ -69,16 +69,15 @@ $navseperatorheight: 22px;
     border-top: $dark solid;
     border-width: 1px;
     font-family: $title-family;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 #navlinks {
     display: flex;
     justify-content: space-between;
     width: 200px;
-    font-size: 18px;
 }
 
-#subbtn {
-    padding-right: 0;
+.stknav i {
+    padding-left: 3px;
 }
