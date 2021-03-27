@@ -11,7 +11,12 @@
     <meta charset="utf-8">
     {{- hugo.Generator -}}
     <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-    <meta name="description" content="smalltownkitten blog">
+    <meta property="og:site_name" content="smalltownkitten" />
+    <meta property="og:title" content="{{ .Title }}" />
+    <meta property="og:url" content="{{.Permalink}}" />
+    <meta property="og:image" content="{{$.Site.BaseURL}}/sarah.png" />
+    <meta property="og:description" content="{{ .Summary }}" />
+
 
     <!-- CSS -->
     {{ $scss := resources.Get "scss/mystyles.scss" }}
