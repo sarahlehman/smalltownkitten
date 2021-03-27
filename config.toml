@@ -19,7 +19,8 @@ mainSections = ["post"]
 scripts = [
   "js/clickHandlers.js",
   "js/handleSubRequest.js",
-  "js/maintainScroll.js"
+  "js/maintainScroll.js",
+  "js/sharePost.js"
 ]
   
   [server]
