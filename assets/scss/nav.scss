@@ -29,13 +29,13 @@ $navseperatorheight: 22px;
 .brandtext {
     padding-right: 8px;
     .title {
-        font-size: 28px !important;
+        font-size: 32px;
         line-height: 1;
     }
 }
 
 #brandimage {
-    @include square(calc(calc(28px * 3) - calc(calc(28px * 3) * 0.2)))
+    @include square(calc(calc(32px * 3) - calc(calc(32px * 3) * 0.2)))
 }
 
 .social-links {
@@ -76,6 +76,7 @@ $navseperatorheight: 22px;
     display: flex;
     justify-content: space-between;
     width: 200px;
+    font-size: 18px;
 }
 
 #subbtn {
