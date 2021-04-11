@@ -1,11 +1,10 @@
 //handle subscription request
 
-var $apiRoute = 'https://api.smalltownkitten.com/v1/subscribe';
+const ApiRoute = 'https://api.smalltownkitten.com/v2/';
 
 var $subscribeForm = document.getElementById("subscribeform");
 var $emailControl = document.getElementById("subscribeEmailControl");
 var $emailInput = document.getElementById("subscribeEmailInput");
-
 
 var $isLoadingClass = "is-loading";
 function setLoading($isLoading) {
@@ -17,14 +16,15 @@ function setLoading($isLoading) {
 }
 
 async function postSubscribe($email) {
-    const response = await fetch($apiRoute, {
+    console.log($email)
+    const response = await fetch(ApiRoute + 'subscribe', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ body: JSON.stringify({ email: $email }) })
+        body: JSON.stringify({ email: $email })
     });
-    return response.json();
+    if (!response.ok) {throw "response not OK - " + response.status + " : " + response.text()}
 }
 
 var $subscribeModal = document.getElementById("subscribeModal");
@@ -36,18 +36,19 @@ function doSubscribe($email) {
     } 
     setLoading(true);
     postSubscribe($email)
-        .then($resp => {
-            console.log($resp)
-            //stop loading
-            setLoading(false);
+        .then(function(){
+            show($msgSubSuccess);
+        })
+        .catch(err => {
+            console.log(err)
+            show($msgSubError);
+        })
+        .finally(function(){
             //hide the modal
             deactivate($subscribeModal);
-            //display correct message
-            if ($resp.statusCode != 200) {
-                show($msgSubError);
-                return
-            }
-            show($msgSubSuccess);
+            //stop loading
+            setLoading(false);
+            //clear the email input box
             $emailInput.value = null;
         });
 }
