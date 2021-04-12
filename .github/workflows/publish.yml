@@ -26,5 +26,5 @@ jobs:
         
       # Runs a set of commands using the runners shell
       - name: Hit Deploy Hooks
-        run: |
+      - run: |
           $env:DEPLOY_HOOKS -split ',' | ForEach-Object -Process {if ((Invoke-Webrequest $_).StatusCode -ne 200) { Write-Error "deploy fail" }}
