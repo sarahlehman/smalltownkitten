@@ -1,6 +1,6 @@
 //ping the api at /hit to record a page hit
 {
-    const hitURL = ApiRoute + "hit"
+    const hitURL = ApiRoute + "hit?ref="
     var ref = document.referrer
     if (ref.startsWith(location.protocol + "//" + location.host)) {
         //don't use own site as referer
