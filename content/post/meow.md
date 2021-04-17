@@ -9,7 +9,7 @@
 }
 Our cat won’t stop meowing. It’s so constant that sometimes I fear I
 have forgotten something essential to this animal’s survival. The other
-day Justin got so frustrated with the incessant noise he shouted, “Can’t
+day Justin got so frustrated with the incessant noise he shouted “Can’t
 you go entertain yourself?\! Why don’t you go lick your balls or
 something?” (This is how parents do it too, right?) I didn’t want to
 burst Justin’s bubble by telling him that Nugget doesn’t actually *have*
