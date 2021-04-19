@@ -2,6 +2,7 @@ baseURL = "https://blog.smalltownkitten.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "smalltownkitten"
+
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
@@ -14,6 +15,8 @@ enableRobotsTXT = true
 [params]
 featureLen = 1000
 mainSections = ["post"]
+description = "small town kitten description"
+twitter = "@smalltownkitten"
 scripts = [
   "js/clickHandlers.js",
   "js/handleSubRequest.js",
