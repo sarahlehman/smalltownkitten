@@ -13,7 +13,7 @@
     
     {{ $imglink := "https://s3.amazonaws.com/smalltownkitten.com-images/jade_roller_kitty.jpg" }}
     {{ $desc := $.Site.Params.description }}
-    {{ $cardtype := "summary_large_image"}}
+    {{ $cardtype := "summary"}}
     {{ if not .IsHome}}
       {{ $desc = .Params.Summary }}
       {{ if .Params.Img  }}
