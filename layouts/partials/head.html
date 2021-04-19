@@ -11,7 +11,7 @@
     <meta charset="utf-8">
     {{- hugo.Generator -}}
     
-    {{ $imglink := (print $.Site.BaseURL "/sarah.png") }}
+    {{ $imglink := "https://s3.amazonaws.com/smalltownkitten.com-images/stk_kitten_woodpile.jpg" }}
     {{ $desc := $.Site.Params.description }}
     {{ $cardtype := "summary"}}
     {{ if not .IsHome}}
