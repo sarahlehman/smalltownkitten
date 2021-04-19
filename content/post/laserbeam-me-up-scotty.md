@@ -6,7 +6,8 @@
     "tags": [
         "anxiety",
         "awkwardinteractions"
-    ]
+    ],
+    "Img": "https://s3.amazonaws.com/smalltownkitten.com-images/laserbeam-me-up-scotty.jpg"
 }
 I had been thinking about getting laser hair removal for a while, but I
 avoided seeking information because I was anxious. I also dread setting

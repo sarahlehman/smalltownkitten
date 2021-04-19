@@ -1,3 +1,4 @@
 {
-    "type": "tag-cloud"
+    "type": "tag-cloud",
+    "title": "Tags"
 }

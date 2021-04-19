@@ -10,13 +10,28 @@
     <!-- Meta -->
     <meta charset="utf-8">
     {{- hugo.Generator -}}
+    
+    {{ $imglink := "https://s3.amazonaws.com/smalltownkitten.com-images/default_card.jpg" }}
+    {{ $desc := $.Site.Params.description }}
+    {{ $cardtype := "summary"}}
+    {{ if not .IsHome}}
+      {{ $desc = .Params.Summary }}
+      {{ if .Params.Img  }}
+            {{ $imglink = .Params.Img }}
+            {{ $cardtype = "summary_large_image"}}
+      {{end}}
+    {{ end }}
     <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-    <meta property="og:site_name" content="smalltownkitten" />
+    <meta property="og:site_name" content="{{$.Site.Title}}" />
     <meta property="og:title" content="{{ .Title }}" />
-    <meta property="og:url" content="{{.Permalink}}" />
-    <meta property="og:image" content="{{$.Site.BaseURL}}/sarah.png" />
-    <meta property="og:description" content="{{ .Summary }}" />
-
+    <meta property="og:url" content="{{ .Permalink }}" />
+    <meta property="og:image" content="{{$imglink}}" />
+    <meta property="og:description" content="{{ $desc }}" />
+    <meta name="twitter:card" content="{{ $cardtype }}" />
+    <meta name="twitter:site" content="{{ $.Site.Params.twitter }}" />
+    <meta name="twitter:title" content="{{ .Title }}" />
+    <meta name="twitter:description" content="{{ $desc }}" />
+    <meta name="twitter:image" content="{{ $imglink }}" />
 
     <!-- CSS -->
     {{ $scss := resources.Get "scss/mystyles.scss" }}
