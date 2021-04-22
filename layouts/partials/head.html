@@ -23,6 +23,9 @@
     {{ else }}
     <meta name="google-site-verification" content="wv1wb-egZBSqKDwAy_g1WPjbKScpWAQhfVkSUjJzjN4" />
     {{ end }}
+    {{ if and (ne .Kind "page") (ne .Kind "home") }}
+    <meta name="robots" content="noindex">
+    {{end}}
     <meta name="description" content="{{ $desc }}" />
     <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
     <meta property="og:site_name" content="{{$.Site.Title}}" />
