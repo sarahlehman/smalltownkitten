@@ -1,5 +1,11 @@
 <head>
-    <title>{{.Title}}</title>
+    <title>
+      {{ if ne .Title $.Site.Title }}
+            {{ $.Site.Title }} | {{ .Title }}
+      {{else}}
+            {{.Title}}
+      {{end}}
+      </title>
 
     <!-- Meta -->
     <meta charset="utf-8">
