@@ -1,9 +1,9 @@
 <head>
     <title>
-      {{ if ne .Title $.Site.Title }}
+      {{ if not .IsHome }}
             {{ $.Site.Title }} | {{ .Title }}
       {{else}}
-            {{.Title}}
+            {{.Title}} | {{ $.Site.Params.description }}
       {{end}}
       </title>
 
