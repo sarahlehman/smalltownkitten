@@ -7,6 +7,7 @@
 
 .footer {
     background-color: transparent;
+    font-size: 16px;
     .post-lite {
         border-bottom: 2px transparent solid;
     }
@@ -35,8 +36,4 @@
     a:hover {
         color: $link;
     }
-}
-
-#footerSubscribeLink {
-    color:white;
 }
