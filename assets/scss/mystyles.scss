@@ -1,8 +1,8 @@
 @charset "utf-8";
 
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Ramaraja&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Guntur:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Assistant&display=swap');
 
 $purple: #c83771;
 $purple-dark: darken($purple, 20%);
@@ -14,11 +14,11 @@ $link: $purple;
 $link-visited: $purple-dark;
 $link-hover: $cyan;
 
-$family-serif: "EB Garamond", serif;
-$title-family: "DM Serif Text", serif;
-$subtitle-family: "Ramaraja", serif;
+$family-sans-serif: 'Assistant', sans-serif;
+$title-family: 'Hind Guntur', sans-serif;
+$subtitle-family: 'Source Sans Pro', sans-serif;
 $button-family: $subtitle-family;
-$family-primary: $family-serif;
+$family-primary: $family-sans-serif;
 
 $section-padding: 1.5rem 1rem;
 $body-size: 18px;
