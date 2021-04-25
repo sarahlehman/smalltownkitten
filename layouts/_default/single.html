@@ -8,6 +8,19 @@
         </p>
     {{ end }}
     <div class="content">{{ .Content }}</div>
+    {{ if eq .Type "post" }}
+    <hr>
+    <p class="subtitle is-6">If you liked this post please consider <a>sharing<i id="sharebtn" class="fas fa-share-alt-square" aria-hidden="true"></i></a></p>
+    {{ if .PrevInSection }}
+    <p>read next:</p>
+    <div class="post">
+        <a href="{{ .PrevInSection.RelPermalink }}">
+            <h1 class="title is-5">{{ .PrevInSection.Title }}</h1>
+            <p class="subtitle is-6"><p class="subtitle is-6">{{ .PrevInSection.Summary }}<br><span class="post-date">{{ .PrevInSection.Date.Format "Mon, Jan 2, 2006" }}</span> / <span class="post-date">{{ .PrevInSection.ReadingTime }} minute read</span></p>
+        </a>
+    </div>
+    {{ end }}
+    {{ end }}
 </div>
     {{ if eq .Type "post"}}
         <!-- CSS -->
@@ -18,6 +31,7 @@
         {{ $style.Content | safeCSS }}
     </style>
     <div class="post post-lite">
+        read more posts tagged:
         <div class="tagscontainer">
             {{ range .Page.Params.Tags }}
                 <a class="tag" href="{{ ( printf "/tags/%s/" . ) }}">{{ . }}</a>
