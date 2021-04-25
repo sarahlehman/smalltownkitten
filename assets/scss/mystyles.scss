@@ -13,6 +13,7 @@ $cyan: #2ad4ff;
 $primary: $cyan;
 $info: $green;
 
+$tag-background-color: transparent;
 $link: $green;
 $link-visited: $purple-dark;
 $link-hover: $cyan;
@@ -31,6 +32,12 @@ $body-size: 18px;
 @import "./bulma/sass/base/_all.sass";
 
 $modal-background-background-color: bulmaRgba(darken($cyan, 20%), 0.86);
+
+.tag {
+    border: solid $dark;
+    border-width: 1px;
+    text-decoration: underline
+}
 
 html, body {
     margin: 0;
