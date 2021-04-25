@@ -3,14 +3,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Hind+Guntur:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Assistant&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&display=swap');
 
 $purple: #c83771;
+$green: #85db87;
+$green-dark: darken($green, 20%);
 $purple-dark: darken($purple, 20%);
 $cyan: #2ad4ff;
 $primary: $cyan;
-$info: $purple;
+$info: $green;
 
-$link: $purple;
+$link: $green;
 $link-visited: $purple-dark;
 $link-hover: $cyan;
 
@@ -19,6 +22,7 @@ $title-family: 'Hind Guntur', sans-serif;
 $subtitle-family: 'Source Sans Pro', sans-serif;
 $button-family: $subtitle-family;
 $family-primary: $family-sans-serif;
+$logo-font: 'DM Serif Text', serif;
 
 $section-padding: 1.5rem 1rem;
 $body-size: 18px;
@@ -33,6 +37,7 @@ html, body {
     padding: 0;
     height: 100%;
     -webkit-tap-highlight-color: transparent; /* for removing the highlight */
+    background-color: $green;
 }
 
 @import "./nav.scss";
@@ -53,7 +58,8 @@ html, body {
 hr {
     margin: 0 !important;
     margin-top: 4px !important;
-    background-color: darken($white-ter, 1%)
+    background-color: $dark;
+    border-radius: .5rem;
 }
 
 .block:not(:last-child) {
@@ -66,7 +72,7 @@ hr {
     min-height: calc(80vh - 2px);
     padding-left: 2px;
     padding-right: 2px;
-    background-color: darken($white, 1%)
+    background-color: $green;
 }
 
 @import "./bulma/sass/elements/other.sass";

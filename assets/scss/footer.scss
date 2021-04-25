@@ -6,6 +6,7 @@
 }
 
 .footer {
+    background-color: transparent;
     .post-lite {
         border-bottom: 2px transparent solid;
     }
@@ -16,8 +17,11 @@
 
 .foot-nav {
     padding-right: .5rem;
-    border-right: $white-ter solid 2px;
+    border-right: $dark solid 1px;
     text-align: end;
+    a {
+        color: $dark
+    }
 }
 
 .foot-social {
@@ -31,4 +35,8 @@
     a:hover {
         color: $link;
     }
+}
+
+#footerSubscribeLink {
+    color:white;
 }

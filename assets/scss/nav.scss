@@ -7,7 +7,6 @@ $navseperatorheight: 22px;
 
 .stktop {
     width: 100%;
-    height: 163px;
 }
 
 .stkbrand {
@@ -16,8 +15,9 @@ $navseperatorheight: 22px;
     align-items: center;
     width: 100%;
     height: calc(80% - 22px);
-    background-color: $white;
-    padding: 16px;
+    padding: 8px;
+    padding-left: 16px;
+    background-color: $green;
 }
 
 .logo {
@@ -31,6 +31,7 @@ $navseperatorheight: 22px;
     .title {
         font-size: 32px;
         line-height: 1;
+        font-family: $logo-font;
     }
 }
 
@@ -61,15 +62,10 @@ $navseperatorheight: 22px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: 16px;
-    padding-right: 16px;
-    width: 100%;
-    height: 20%;
-    border-bottom: $dark solid;
-    border-top: $dark solid;
-    border-width: 1px;
-    font-family: $title-family;
-    font-size: 18px;
+    padding-left: 14px;
+    padding-right: 14px;
+    font-size: 16px;
+    height: 24px;
 }
 
 #navlinks {
@@ -80,4 +76,27 @@ $navseperatorheight: 22px;
 
 .stknav i {
     padding-left: 5px;
+}
+
+.round-top-long {
+    border: solid $dark;
+    border-width: 1px;
+    border-radius: 0;
+    border-top-left-radius: .5rem;
+    border-top-right-radius: .5rem;
+    margin-bottom: -48px;
+    height: 48px;
+    background-color: darken($white, 1%);
+}
+
+.round-tops {
+    div {
+        height: 6px;
+        border: solid $dark;
+        border-width: 1px;
+        border-bottom: transparent;
+        border-top-left-radius: .5rem;
+        border-top-right-radius: .5rem;
+
+    }
 }
