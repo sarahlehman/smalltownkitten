@@ -7,9 +7,8 @@ function activate($element) {
     $element.classList.add($activatingClass);
 };
 
-var $navSubscribeBtn = document.getElementById("navSubscribeBtn");
 var $footerSubscribeLink = document.getElementById("footerSubscribeLink");
-var $activators = [$navSubscribeBtn, $footerSubscribeLink];
+var $activators = [$footerSubscribeLink];
 $activators.forEach($activator => {
     $activator.addEventListener("click", function(){activate($subscribeModal)});
 });
