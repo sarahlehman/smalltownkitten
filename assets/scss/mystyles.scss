@@ -68,8 +68,6 @@ html, body {
     flex-flow: column;
     min-height: calc(80vh - 2px);
     background-color: $off-white;
-    border-left: solid 1px $dark;
-    border-right: solid 1px $dark;
 }
 
 @import "./bulma/sass/elements/other.sass";
