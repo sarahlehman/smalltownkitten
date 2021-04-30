@@ -25,14 +25,17 @@ $navseperatorheight: 22px;
     display: flex;
     justify-content: left;
     align-items: center;
+    //color: darken($green, 45%);
 }
 
 .brandtext {
     padding-right: 8px;
-    .title {
-        line-height: 1;
-        font-family: $logo-font;
-    }
+    line-height: 1;
+    font-family: $logo-font;
+    font-weight: 600;
+    color: $off-white;
+    font-size: 1.8rem;
+    padding-left: .5rem;
 }
 
 #brandimage {
