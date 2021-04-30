@@ -3,28 +3,20 @@
     background-color: $white;
 }
 
-.featured .content {
-    @include text-truncate();
-}
+// .featured .content {
+//     @include text-truncate();
+// }
 
 .post {
     width: 100%;
-    border: darken($white-ter, 1%) solid;
-    border-width: 2px;
-    border-radius: .5rem;
+    border-bottom: solid 1px $dark;
     padding: 1rem;
     .subtitle {
         margin-bottom: 1rem;
     }
-    .title {
-        text-decoration: underline;
-    }
 }
 
 .post-lite {
-    border-top: 2px transparent solid;
-    border-left: 2px transparent solid;
-    border-right: 2px transparent solid;
     .subtitle {
         margin-bottom: 0;
     }
@@ -37,7 +29,7 @@
 .post-date {
     font-family: $family-primary !important;
     font-size: 1rem !important;
-    color: $info !important;
+    color: $green;
 }
 
 .post-main {

@@ -13,7 +13,7 @@ enableRobotsTXT = true
       unsafe = true
 
 [params]
-featureLen = 1000
+featureLen = 1500
 mainSections = ["post"]
 description = "Humorous non-fiction about my interactions, observations, and anxiety"
 twitter = "@smalltownkitten"

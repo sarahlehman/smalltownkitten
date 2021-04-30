@@ -6,6 +6,8 @@
 }
 
 .footer {
+    background-color: transparent;
+    font-size: 16px;
     .post-lite {
         border-bottom: 2px transparent solid;
     }
@@ -16,8 +18,11 @@
 
 .foot-nav {
     padding-right: .5rem;
-    border-right: $white-ter solid 2px;
+    border-right: $dark solid 1px;
     text-align: end;
+    a {
+        color: $dark
+    }
 }
 
 .foot-social {

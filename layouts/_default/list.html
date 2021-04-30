@@ -1,19 +1,19 @@
 {{ define "main" }}
 <div class="post post-main">
     {{ if eq .Type "tag-cloud" }}
-    <h1 class="title is-3">Tags</h1>
+    <h1 class="title is-4">Tags</h1>
     <div class="tagscontainer">
         {{ range .Site.Taxonomies.tags }}
-        <a href="{{ .Page.RelPermalink }}" class="tag is-light">{{ .Page.Title }}</a>
+        <a href="{{ .Page.RelPermalink }}" class="tag">{{ .Page.Title }}</a>
         {{ end }}
     </div>
     {{ else }}
     <div class="index-container">
-        <div class="title is-3">{{ if eq .Type "tags" }}#{{ end }}{{ .Title }}</div>
+        <div class="title is-4">{{ if eq .Type "tags" }}#{{ end }}{{ .Title }}</div>
         <ul>
             {{ range .Data.Pages.GroupByDate "2006" }}
             <div class="block">
-                <div class="title is-4">{{ .Key }}</div>
+                <div class="title is-5">{{ .Key }}</div>
                 <ul class="index-posts">
                 {{ range .Pages }}                    
                         <li><a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a></li>
