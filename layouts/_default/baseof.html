@@ -3,16 +3,16 @@
 {{- partial "head.html" . -}}
 <body>
 <div class="container is-max-desktop main">
-    {{- partial "nav.html" . -}}
-    {{- partial "subscribe.html" . -}}
     <div class="stkcontainer">
+        {{- partial "nav.html" . -}}
+        {{- partial "subscribe.html" . -}}
         <div class="round-top"></div>
         <div class="round-top"></div>
         <div class="round-top"></div>
         {{- partial "messages.html" . -}}
         {{- block "main" . }}{{- end }}
+        {{- partial "footer.html" . -}}
     </div>
-    {{- partial "footer.html" . -}}
 </div>
 {{- partial "scripts.html" . -}}
 </body>

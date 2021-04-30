@@ -6,37 +6,35 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&display=swap');
 
 $purple: #c83771;
-$green: #85db87;
+$green: #afdb85;
 $green-dark: darken($green, 20%);
 $purple-dark: darken($purple, 20%);
 $cyan: #2ad4ff;
 $primary: $cyan;
 $info: $green;
 
-$tag-background-color: transparent;
 $link: $green;
 $link-visited: $purple-dark;
 $link-hover: $cyan;
 
 $family-sans-serif: 'Assistant', sans-serif;
-$title-family: 'Hind Guntur', sans-serif;
+$title-family: 'DM Serif Text', serif;
 $subtitle-family: 'Source Sans Pro', sans-serif;
 $button-family: $subtitle-family;
 $family-primary: $family-sans-serif;
-$logo-font: 'DM Serif Text', serif;
+$logo-font: $title-family;
 
 $section-padding: 1.5rem 1rem;
 $body-size: 18px;
 
 @import "./bulma/sass/utilities/_all.sass";
 @import "./bulma/sass/base/_all.sass";
-
+$tag-background-color: $white;
 $modal-background-background-color: bulmaRgba(darken($cyan, 20%), 0.86);
 
 .tag {
     border: solid $dark;
     border-width: 1px;
-    text-decoration: underline
 }
 
 html, body {
@@ -44,7 +42,6 @@ html, body {
     padding: 0;
     height: 100%;
     -webkit-tap-highlight-color: transparent; /* for removing the highlight */
-    background-color: $green;
 }
 
 @import "./nav.scss";
@@ -53,20 +50,13 @@ html, body {
 // Requires inline-block or block for proper styling
 @mixin text-truncate() {
     display: -webkit-box;
-    -webkit-line-clamp: 10;
+    -webkit-line-clamp: 18;
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
 
 .no-padding {
     padding: 0 !important;
-}
-
-hr {
-    margin: 0 !important;
-    margin-top: 4px !important;
-    background-color: $dark;
-    border-radius: .5rem;
 }
 
 .block:not(:last-child) {
@@ -77,9 +67,9 @@ hr {
     display: flex;
     flex-flow: column;
     min-height: calc(80vh - 2px);
-    padding-left: 2px;
-    padding-right: 2px;
-    background-color: $green;
+    background-color: #fdfdff;
+    border-left: solid 1px $dark;
+    border-right: solid 1px $dark;
 }
 
 @import "./bulma/sass/elements/other.sass";

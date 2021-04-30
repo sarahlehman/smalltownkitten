@@ -1,36 +1,24 @@
 
 .featured {
     background-color: $white;
-    border-radius: .5rem;
 }
 
-.featured .content {
-    @include text-truncate();
-}
+// .featured .content {
+//     @include text-truncate();
+// }
 
 .post {
     width: 100%;
-    border: $dark solid;
-    border-width: 1px;
-    border-radius: .5rem;
+    border-bottom: solid 1px $dark;
     padding: 1rem;
     .subtitle {
         margin-bottom: 1rem;
     }
-    .title {
-        text-decoration: underline;
-    }
 }
 
 .post-lite {
-    border-top: 1px transparent solid;
-    border-left: 1px transparent solid;
-    border-right: 1px transparent solid;
     .subtitle {
         margin-bottom: 0;
-    }
-    .post-date {
-        color: $white;
     }
 }
 
