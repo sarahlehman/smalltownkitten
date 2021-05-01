@@ -1,8 +1,2 @@
 [params]
-scripts = [
-  "js/clickHandlers.js",
-  "js/handleSubRequest.js",
-  "js/maintainScroll.js",
-  "js/sharePost.js",
-  "js/analytics.js"
-]
+enableAnalytics= true
