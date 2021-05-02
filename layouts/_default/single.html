@@ -9,7 +9,14 @@
     {{ end }}
     <div class="content">{{ .Content }}</div>
 </div>
-{{ if eq .Type "post"}}
+    {{ if eq .Type "post"}}
+        <!-- CSS -->
+    {{ $scss := resources.Get "scss/postend.scss" }}
+    {{ $options := (dict "includePaths" (slice "node_modules")) }}
+    {{ $style := $scss | resources.ToCSS $options | resources.Minify }}
+    <style type="text/css">
+        {{ $style.Content | safeCSS }}
+    </style>
     <div class="post post-lite">
         <div class="tagscontainer">
             {{ range .Page.Params.Tags }}

@@ -1,5 +1,12 @@
+<!-- CSS -->
+{{ $scss := resources.Get "scss/footer.scss" }}
+{{ $options := (dict "includePaths" (slice "node_modules")) }}
+{{ $style := $scss | resources.ToCSS $options | resources.Minify }}
+<style type="text/css">
+     {{ $style.Content | safeCSS }}
+</style>
 <div data-nosnippet class="footer">
-    <div class="foot-flex post post-lite">
+    <div class="foot-flex post">
         <div class="foot-nav">
             <ul>
                 <li><a href="/">home</a></li>

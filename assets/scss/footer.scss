@@ -1,3 +1,4 @@
+@import "./vars.scss";
 @import "./bulma/sass/layout/footer.sass";
 
 .foot-flex {
@@ -6,10 +7,10 @@
 }
 
 .footer {
-    background-color: transparent;
+    background-color: $white;
     font-size: 16px;
-    .post-lite {
-        border-bottom: 2px transparent solid;
+    .post {
+        border-bottom: none;
     }
     .title {
         text-decoration: none;
@@ -20,20 +21,11 @@
     padding-right: .5rem;
     border-right: $dark solid 1px;
     text-align: end;
-    a {
-        color: $dark
-    }
 }
 
 .foot-social {
     padding-left: .5rem;
     i {
         padding-right: .25rem;
-    }
-    a {
-        color: $dark;
-    }
-    a:hover {
-        color: $link;
     }
 }

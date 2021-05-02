@@ -1,11 +1,4 @@
-
-.featured {
-    background-color: $white;
-}
-
-// .featured .content {
-//     @include text-truncate();
-// }
+@import "./bulma/sass/elements/content.sass";
 
 .post {
     width: 100%;
@@ -17,31 +10,25 @@
 }
 
 .post-lite {
+    background-color: $off-white;
     .subtitle {
         margin-bottom: 0;
     }
 }
 
-.post-link a {
-    color: $black;
+.post-link{
+    a {
+        color: $black;
+    }
+    a:hover {
+        color: $black;
+    }
 }
 
 .post-date {
     font-family: $family-primary !important;
     font-size: 1rem !important;
     color: $green;
-}
-
-.post-main {
-    background-color: $white;
-}
-
-.stkcontainer .post-main {
-    flex: 1 1 auto;
-}
-
-#subscribeform {
-    padding-top: 1rem;
 }
 
 #sharebtn {

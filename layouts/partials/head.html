@@ -40,14 +40,12 @@
     <meta name="twitter:image" content="{{ $imglink }}" />
 
     <!-- CSS -->
-    {{ $scss := resources.Get "scss/mystyles.scss" }}
+    {{ $scss := resources.Get "scss/global.scss" }}
     {{ $options := (dict "includePaths" (slice "node_modules")) }}
-    {{ $style := $scss | resources.ToCSS $options | resources.Minify | resources.Fingerprint }}
-    <link rel="stylesheet"
-          href="{{ $style.RelPermalink }}"
-          integrity="{{ $style.Data.Integrity }}"
-          crossorigin="anonymous"
-          type="text/css">
+    {{ $style := $scss | resources.ToCSS $options | resources.Minify }}
+    <style type="text/css">
+         {{ $style.Content | safeCSS }}
+    </style>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="/favicon.ico" type=image/x-icon>

@@ -37,28 +37,6 @@ $navseperatorheight: 22px;
     padding-left: .5rem;
 }
 
-#brandimage {
-    @include square(calc(calc(32px * 3) - calc(calc(32px * 3) * 0.2)))
-}
-
-.social-links {
-    width: 100%;
-    list-style: none;
-    flex: 7;
-    text-align: center;
-    font-size: 24px;
-}
-
-.social-links li {
-    display: inline;
-    padding-right: 1rem;
-    line-height: 0;
-}
-
-.social-links a {
-    color: $dark;
-}
-
 #followmeBtn a {
     color: $cyan;
 }
@@ -87,9 +65,13 @@ $navseperatorheight: 22px;
     padding-left: 5px;
 }
 
-.round-top {
+.top-line {
     border-top: solid 1px $dark;
     margin-bottom: -2px;
     height:6px;
-    background-color: darken($white, 2%);
+    background-color: $off-white;
+}
+
+.stktop .top-line:last-of-type {
+    background-color: $white;
 }
