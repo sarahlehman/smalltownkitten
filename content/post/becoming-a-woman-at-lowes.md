@@ -1,5 +1,5 @@
 {
-    "title": "The Day I Became an Adult",
+    "title": "Becoming a Woman at Lowe's",
     "author": "Sarah",
     "date": "2021-03-06T12:17:30.039585467-05:00",
     "summary": "I'm all grown-up?",

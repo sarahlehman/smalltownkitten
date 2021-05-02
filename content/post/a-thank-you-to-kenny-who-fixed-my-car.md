@@ -1,5 +1,5 @@
 {
-    "title": "A Thank You to Kenny",
+    "title": "A Thank You to Kenny, Who Fixed My Car",
     "author": "Sarah",
     "date": "2021-01-30T23:02:41.173474665-05:00",
     "summary": "On the road again",

@@ -1,5 +1,5 @@
 {
-    "title": "Little Rant #6",
+    "title": "A Little Rant About a Super Bowl Commercial",
     "author": "Sarah",
     "date": "2021-02-11T18:02:18.316651805-05:00",
     "summary": "To the person jumping over the couch with a bowl of popcorn/the person who told them to do such a thing",

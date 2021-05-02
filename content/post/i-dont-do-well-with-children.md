@@ -1,5 +1,5 @@
 {
-    "title": "Kids",
+    "title": "I Don't Do Well With Children",
     "author": "Sarah",
     "date": "2021-01-25T19:17:35.221021892-05:00",
     "summary": "I'm not very good with kids",

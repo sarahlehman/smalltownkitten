@@ -1,5 +1,5 @@
 {
-    "title": "Little Rant #1",
+    "title": "A Little Rant About the Hardware Store",
     "author": "Sarah",
     "date": "2020-11-12T22:25:32.5972128-05:00",
     "summary": "To the guy working at the hardware store",

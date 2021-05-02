@@ -1,8 +1,8 @@
 {
-    "title": "Things I'd Rather Do #2",
+    "title": "Things I'd Rather Do Than Shovel the Driveway Again",
     "author": "Sarah",
     "date": "2021-02-20T13:17:38.810128213-05:00",
-    "summary": "Things I'd rather do than shovel the driveway again",
+    "summary": "(Anything)",
     "tags": [
         "thingsidratherdo",
         "weather"

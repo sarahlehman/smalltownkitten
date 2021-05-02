@@ -1,5 +1,5 @@
 {
-    "title": "An Update on the Water War",
+    "title": "There's a New Water Delivery Guy in Town",
     "author": "Sarah",
     "date": "2021-01-09T19:15:40.597948312-05:00",
     "summary": "Plot twist",
