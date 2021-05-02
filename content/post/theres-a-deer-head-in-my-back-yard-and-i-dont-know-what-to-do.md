@@ -2,7 +2,7 @@
     "title": "There's a Deer Head in My Back Yard and I Don't Know What To Do",
     "author": "Sarah",
     "date": "2021-05-01T23:31:17.759854675-04:00",
-    "summary": "If anyone can shine a light on what to do with the head of a deer, that would be grrreeeeaaaat",
+    "summary": "If anyone could shed some light on proper deer head disposal, that would be grrreeeeaaaat",
     "tags": [
         "nature"
     ],
