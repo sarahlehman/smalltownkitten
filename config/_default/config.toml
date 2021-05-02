@@ -17,9 +17,3 @@ featureLen = 1500
 mainSections = ["post"]
 description = "Humorous non-fiction about my interactions, observations, and anxiety"
 twitter = "@smalltownkitten"
-scripts = [
-  "js/clickHandlers.js",
-  "js/handleSubRequest.js",
-  "js/maintainScroll.js",
-  "js/sharePost.js"
-]
