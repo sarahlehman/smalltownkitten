@@ -4,6 +4,7 @@
 .foot-flex {
     display: flex;
     justify-content: left;
+    padding-left: 0;
 }
 
 .footer {
@@ -34,3 +35,6 @@
     color: $cyan;
 }
 
+.foot-brand {
+    padding-left: .5rem;
+}
