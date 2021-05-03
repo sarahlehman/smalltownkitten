@@ -17,10 +17,10 @@
         {{ $style.Content | safeCSS }}
     </style>
     <div class="post-end">
-        <div class="post share-container">
+        <div id="sharecontainer" class="post share-container">
             <p>If you enjoyed this post please consider sharing:</p>
             <div class="post">
-            <div class="button is-info">share</div>
+            <div id="sharebtn" class="button is-info">share</div>
             </div>
         </div>
         {{ if .PrevInSection }}
