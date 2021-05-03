@@ -1,10 +1,9 @@
 @import "./vars.scss";
 
 .tag {
-    border: solid $dark;
     border-width: 1px;
     background-color: $white !important;
-
+    color: $dark;
 }
 .tagscontainer {
     display: flex;
