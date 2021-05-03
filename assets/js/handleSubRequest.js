@@ -1,60 +1,68 @@
 //handle subscription request
-
 const ApiRoute = 'https://api.smalltownkitten.com/v2/';
 
-var $subscribeForm = document.getElementById("subscribeform");
-var $emailControl = document.getElementById("subscribeEmailControl");
-var $emailInput = document.getElementById("subscribeEmailInput");
+var subscribeForm = document.getElementById("subscribeform");
+var formWrapper = document.getElementById("subscribeformwrapper");
+var emailControl = document.getElementById("subscribeEmailControl");
+var emailInput = document.getElementById("subscribeEmailInput");
+var msgSubSuccess = document.getElementById("msgSubSuccess");
+var msgSubError = document.getElementById("msgSubError");
 
-var $isLoadingClass = "is-loading";
-function setLoading($isLoading) {
-    if ($isLoading) {
-        $emailControl.classList.add($isLoadingClass);
+
+var hidingClass = "is-hidden";
+function hide(element) {
+    element.classList.add(hidingClass);
+};
+function show(element) {
+    element.classList.remove(hidingClass);
+};
+
+var isLoadingClass = "is-loading";
+function setLoading(isLoading) {
+    if (isLoading) {
+        emailControl.classList.add(isLoadingClass);
         return
     }
-    $emailControl.classList.remove($isLoadingClass);
+    emailControl.classList.remove(isLoadingClass);
 }
 
-async function postSubscribe($email) {
-    console.log($email)
+async function postSubscribe(email) {
+    console.log(email)
     const response = await fetch(ApiRoute + 'subscribe', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ email: $email })
+        body: JSON.stringify({ email: email })
     });
     if (!response.ok) {throw "response not OK - " + response.status + " : " + response.text()}
 }
 
-var $subscribeModal = document.getElementById("subscribeModal");
+var subscribeModal = document.getElementById("subscribeModal");
 
-function doSubscribe($email) {
-    if ($email.length == 0) {
+function doSubscribe(email) {
+    if (email.length == 0) {
         //do nothing
         return
     } 
     setLoading(true);
-    postSubscribe($email)
+    postSubscribe(email)
         .then(function(){
-            show($msgSubSuccess);
+            show(msgSubSuccess);
         })
         .catch(err => {
             console.log(err)
-            show($msgSubError);
+            show(msgSubError);
         })
         .finally(function(){
             //hide the modal
-            deactivate($subscribeModal);
+            hide(formWrapper);
             //stop loading
             setLoading(false);
-            //clear the email input box
-            $emailInput.value = null;
         });
 }
 //register on submit
-
-$subscribeForm.addEventListener("submit", event => {
+subscribeForm.addEventListener("submit", event => {
     event.preventDefault();
-    doSubscribe($emailInput.value)
+    doSubscribe(emailInput.value)
 });

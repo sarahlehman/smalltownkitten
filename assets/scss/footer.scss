@@ -1,16 +1,15 @@
+@import "./vars.scss";
 @import "./bulma/sass/layout/footer.sass";
 
 .foot-flex {
     display: flex;
     justify-content: left;
+    padding-left: 0;
 }
 
 .footer {
-    background-color: transparent;
+    background-color: $white;
     font-size: 16px;
-    .post-lite {
-        border-bottom: 2px transparent solid;
-    }
     .title {
         text-decoration: none;
     }
@@ -20,9 +19,6 @@
     padding-right: .5rem;
     border-right: $dark solid 1px;
     text-align: end;
-    a {
-        color: $dark
-    }
 }
 
 .foot-social {
@@ -30,10 +26,17 @@
     i {
         padding-right: .25rem;
     }
-    a {
+}
+
+#followMeBtn {
+        color: $green;
+}
+
+#followMeBtn:hover {
         color: $dark;
-    }
-    a:hover {
-        color: $link;
-    }
+}
+
+
+.foot-brand {
+    padding-left: .5rem;
 }

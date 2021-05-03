@@ -1,4 +1,10 @@
 {{ define "main" }}
+    {{ $scss := resources.Get "scss/index.scss" }}
+    {{ $options := (dict "includePaths" (slice "node_modules")) }}
+    {{ $style := $scss | resources.ToCSS $options | resources.Minify }}
+    <style type="text/css">
+    {{ $style.Content | safeCSS }}
+    </style>
     {{ $isFirst := true }}
     {{ range (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
         {{ if $isFirst }}

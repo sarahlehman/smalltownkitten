@@ -1,0 +1,13 @@
+@import "./vars.scss";
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    -webkit-tap-highlight-color: transparent; /* for removing the highlight */
+    background-color: $white;
+}
+
+@import "./nav.scss";
+@import "./content.scss";
+@import "./bulma/sass/elements/title.sass";
+@import "./buttons.scss";

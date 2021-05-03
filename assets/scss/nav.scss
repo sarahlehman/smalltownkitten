@@ -1,9 +1,3 @@
-$navseperatorheight: 22px;
-
-@mixin square($size) {
-    width: $size;
-    height: $size;
-}
 
 .stktop {
     width: 100%;
@@ -16,7 +10,7 @@ $navseperatorheight: 22px;
     width: 100%;
     height: 85px;
     background-color: $green;
-    padding-left: 10px;
+    padding-left: 14px;
     padding-top: 4px;
 }
 
@@ -32,64 +26,39 @@ $navseperatorheight: 22px;
     line-height: 1;
     font-family: $logo-font;
     font-weight: 600;
-    color: $off-white;
+    color: $white;
     font-size: 1.8rem;
-    padding-left: .5rem;
-}
-
-#brandimage {
-    @include square(calc(calc(32px * 3) - calc(calc(32px * 3) * 0.2)))
-}
-
-.social-links {
-    width: 100%;
-    list-style: none;
-    flex: 7;
-    text-align: center;
-    font-size: 24px;
-}
-
-.social-links li {
-    display: inline;
-    padding-right: 1rem;
-    line-height: 0;
-}
-
-.social-links a {
-    color: $dark;
-}
-
-#followmeBtn a {
-    color: $cyan;
+    padding-left: 5px;
 }
 
 .stknav {
+    background-color: $off-white;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: 14px;
-    padding-right: 14px;
-    font-size: 16px;
-    height: 24px;
-    border-top: solid 1px $dark;
-    a {
-        color: $dark;
-    }
+    padding-left: 8px;
+    font-size: 16px !important;
+    height: 48px;
+
 }
 
 #navlinks {
     display: flex;
-    justify-content: space-between;
-    width: 200px;
+    height: 100%;
 }
 
 .stknav i {
     padding-left: 5px;
 }
 
-.round-top {
+.top-line {
     border-top: solid 1px $dark;
     margin-bottom: -2px;
     height:6px;
-    background-color: darken($white, 2%);
+    background-color: $off-white;
 }
+
+.stktop .top-line:last-of-type {
+    background-color: $white;
+}
+
