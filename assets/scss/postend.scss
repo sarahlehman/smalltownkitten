@@ -9,6 +9,10 @@
         .subtitle {
             margin-bottom: 0px;
         }
+        .post-white {
+            background-color: $white;
+            border-radius: .5rem;
+        }
     }
     border-bottom: 1px solid $dark;
 }
@@ -23,3 +27,4 @@
         padding-right: 0px;
     }
 }
+
