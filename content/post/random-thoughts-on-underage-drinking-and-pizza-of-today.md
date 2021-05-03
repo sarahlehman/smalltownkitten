@@ -1,5 +1,5 @@
 {
-    "title": "Random Thoughts #1",
+    "title": "Random Thoughts on Underage Drinking and Pizza of Today",
     "author": "Sarah",
     "date": "2020-12-19T18:00:32.318593653-05:00",
     "summary": "Underage drinking and 21st century pizza",

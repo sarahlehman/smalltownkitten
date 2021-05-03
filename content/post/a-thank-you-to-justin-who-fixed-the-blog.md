@@ -1,5 +1,5 @@
 {
-    "title": "A Thank You to Justin",
+    "title": "A Thank You to Justin, Who Fixed the Blog",
     "author": "Sarah",
     "date": "2021-02-21T11:56:30.558929371-05:00",
     "summary": "New and improved",

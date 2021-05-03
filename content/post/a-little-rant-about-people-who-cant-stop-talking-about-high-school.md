@@ -1,5 +1,5 @@
 {
-    "title": "Little Rant #4",
+    "title": "A Little Rant About People Who Can't Stop Talking About High School",
     "author": "Sarah",
     "date": "2021-01-26T19:28:59.326511606-05:00",
     "summary": "To the person who can't stop bragging about high school",

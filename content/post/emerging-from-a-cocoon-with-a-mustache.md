@@ -1,5 +1,5 @@
 {
-    "title": "Emerging From a Cocoon",
+    "title": "Emerging From a Cocoon (With a Mustache)",
     "author": "Sarah",
     "date": "2021-03-26T19:38:42.252148016-04:00",
     "summary": "Here we go",

@@ -1,11 +1,14 @@
 {
-    "title": "(Laser)Beam Me Up, Scotty",
+    "title": "The Nurse Who Lasered Me",
     "author": "Sarah",
     "date": "2021-04-18T15:08:23.568367663-04:00",
     "summary": "I don’t want to part with all of it, but I’m having some of my hair lasered off",
     "tags": [
         "anxiety",
         "awkwardinteractions"
+    ],
+    "aliases": [
+        "/post/laserbeam-me-up-scotty"
     ],
     "Img": "https://s3.amazonaws.com/smalltownkitten.com-images/laserbeam-me-up-scotty.jpg"
 }

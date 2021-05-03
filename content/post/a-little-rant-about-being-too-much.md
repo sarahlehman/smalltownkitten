@@ -1,5 +1,5 @@
 {
-    "title": "Little Rant #2",
+    "title": "A Little Rant About Being Too Much",
     "author": "Sarah",
     "date": "2021-01-02T20:12:19.65154411-05:00",
     "summary": "To anyone who has ever been made to feel (or has just been straight up told) that they are “too much”",

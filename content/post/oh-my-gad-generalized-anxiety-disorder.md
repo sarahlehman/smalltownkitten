@@ -1,5 +1,5 @@
 {
-    "title": "Oh My GAD",
+    "title": "Oh My GAD (Generalized Anxiety Disorder)",
     "author": "Sarah",
     "date": "2021-01-27T21:50:56.922998372-05:00",
     "summary": "A post that was going to be short, but ended up being very long, about my anxiety",

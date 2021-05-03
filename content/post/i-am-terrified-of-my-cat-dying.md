@@ -1,5 +1,5 @@
 {
-    "title": "Cat Paranoia",
+    "title": "I Am Terrified of My Cat Dying",
     "author": "Sarah",
     "date": "2020-12-30T10:44:11.50772661-05:00",
     "summary": "I can't be the only one",

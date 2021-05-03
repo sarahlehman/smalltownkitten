@@ -1,5 +1,5 @@
 {
-    "title": "Another Water War \"Update\"",
+    "title": "Dude Where's My Water Delivery Guy",
     "author": "Sarah",
     "date": "2021-01-22T18:43:39.784787907-05:00",
     "summary": "Not important",
