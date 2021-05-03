@@ -1,12 +1,6 @@
 {{ define "main" }}
 <div class="post post-main">
     {{ if eq .Type "tag-cloud" }}
-    {{ $scss := resources.Get "scss/tags.scss" }}
-    {{ $options := (dict "includePaths" (slice "node_modules")) }}
-    {{ $style := $scss | resources.ToCSS $options | resources.Minify }}
-    <style type="text/css">
-      {{ $style.Content | safeCSS }}
-    </style>
     <h1 class="title is-4">Tags</h1>
     <div class="tagscontainer">
         {{ range .Site.Taxonomies.tags }}
