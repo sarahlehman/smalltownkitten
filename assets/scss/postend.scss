@@ -1,0 +1,29 @@
+@import "./vars.scss";
+@import "./tags.scss";
+
+.post-end {
+    .post {
+        border: none;
+        padding-bottom: .5rem;
+        background-color: $off-white;
+        .subtitle {
+            margin-bottom: 0px;
+        }
+        .post-white {
+            background-color: $white;
+            border-radius: .5rem;
+        }
+    }
+}
+
+.share-container {
+    .button {
+        width: 100%;
+        color: $off-white;
+    }
+    .post {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}
+@import "./bulma/sass/helpers/visibility.sass";

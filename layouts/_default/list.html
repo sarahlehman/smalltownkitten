@@ -1,5 +1,11 @@
 {{ define "main" }}
 <div class="post post-main">
+    {{ $scss := resources.Get "scss/tagcloud.scss" }}
+    {{ $options := (dict "includePaths" (slice "node_modules")) }}
+    {{ $style := $scss | resources.ToCSS $options | resources.Minify }}
+    <style type="text/css">
+      {{ $style.Content | safeCSS }}
+    </style>
     {{ if eq .Type "tag-cloud" }}
     <h1 class="title is-4">Tags</h1>
     <div class="tagscontainer">
@@ -8,6 +14,12 @@
         {{ end }}
     </div>
     {{ else }}
+    {{ $scss := resources.Get "scss/postindex.scss" }}
+    {{ $options := (dict "includePaths" (slice "node_modules")) }}
+    {{ $style := $scss | resources.ToCSS $options | resources.Minify }}
+    <style type="text/css">
+      {{ $style.Content | safeCSS }}
+    </style>
     <div class="index-container">
         <div class="title is-4">{{ if eq .Type "tags" }}#{{ end }}{{ .Title }}</div>
         <ul>

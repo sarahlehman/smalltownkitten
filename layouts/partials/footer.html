@@ -1,32 +1,35 @@
+<!-- CSS -->
+{{ $scss := resources.Get "scss/footer.scss" }}
+{{ $options := (dict "includePaths" (slice "node_modules")) }}
+{{ $style := $scss | resources.ToCSS $options | resources.Minify }}
+<style type="text/css">
+     {{ $style.Content | safeCSS }}
+</style>
 <div data-nosnippet class="footer">
-    <div class="foot-flex post post-lite">
+    <div class="foot-flex post">
         <div class="foot-nav">
             <ul>
-                <li><a href="/">home</a></li>
-                <li><a href="/about/">about</a></li>
-                <li><a href="/post/">index</a></li>
-                <li><a href="/tags/">tags</a></li>
+                <li><div class="button"><a href="/">home</a></div></li>
+                <li><div class="button"><a href="/about/">about</a></div></li>
+                <li><div class="button"><a href="/post/">index</a></div></li>
+                <li><div class="button"><a href="/tags/">tags</a></div></li>
             </ul>
         </div>
         <div class="foot-social">
             <ul>
-                <li><a href="https://twitter.com/smalltownkitten"><i class="fab fa-twitter" aria-hidden="true"></i>follow me</a></li>
-                <li><a id="footerSubscribeLink"><i class="fas fa-inbox" aria-hidden="true"></i>join my mailing list</a></li>
-                <li><a href="mailto:sarah@smalltownkitten.com"><i class="fas fa-paper-plane" aria-hidden="true"></i>send me an email</a></li>
-                <li><a href="https://github.com/sarahlehman/smalltownkitten"><i class="fab fa-github" aria-hidden="true"></i>view the code</a></li>
+                <li><div class="button"><a href="https://twitter.com/smalltownkitten" id="followMeBtn"><i class="fab fa-twitter" aria-hidden="true"></i>follow me</a></div></li>
+                <li><div class="button"><a href="/subscribe"><i class="fas fa-inbox" aria-hidden="true"></i>join my mailing list</a></div></li>
+                <li><div class="button"><a href="mailto:sarah@smalltownkitten.com"><i class="fas fa-paper-plane" aria-hidden="true"></i>send me an email</a></div></li>
+                <li><div class="button"><a href="https://github.com/sarahlehman/smalltownkitten"><i class="fab fa-github" aria-hidden="true"></i>view the code</a></div></li>
                 <li>
-                    <div class="brandtext">
-                        <a href="/">
-                            <h3 class="title is-5">
-                            small<br>
-                            town<br>
-                            kitten
-                            </h3>
-                        </a>
+                    <div class="foot-brand">
+                        <h3 class="title is-3">
+                        small<br>
+                        town<br>
+                        kitten
+                        </h3>
+                        &copy; Sarah Lehman {{ now.Format "2006"}}
                     </div>
-                </li>
-                <li>
-                    &copy; Sarah Lehman {{ now.Format "2006"}}
                 </li>
             </ul>
         </div>

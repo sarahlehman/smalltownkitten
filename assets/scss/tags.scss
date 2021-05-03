@@ -1,0 +1,22 @@
+@import "./vars.scss";
+
+.tag {
+    border-width: 1px;
+    background-color: $white !important;
+    color: $dark;
+}
+.tagscontainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+.tagscontainer>* {
+    flex: flex-shrink 1 auto;
+    margin: .5rem;
+    margin-left: 0;
+    margin-top: 0
+}
+.tagscontainer a:active {
+    background-color: $green !important;
+    color: $dark;
+} 
+@import "./bulma/sass/elements/tag.sass";

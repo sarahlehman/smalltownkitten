@@ -1,0 +1,39 @@
+@import "./bulma/sass/elements/content.sass";
+
+.post {
+    width: 100%;
+    padding: 1rem;
+    .subtitle {
+        margin-bottom: 1rem;
+    }
+}
+
+.post-main {
+    padding-bottom: 6rem;
+}
+
+.post-lite {
+    background-color: $off-white;
+    .subtitle {
+        margin-bottom: 0;
+    }
+}
+
+.post-link{
+    a {
+        color: $black;
+    }
+    a:hover {
+        color: $black;
+    }
+}
+
+.post-date {
+    font-family: $family-primary !important;
+    font-size: 1rem !important;
+    color: $green;
+}
+
+.content {
+    line-height: 1.75;
+}
