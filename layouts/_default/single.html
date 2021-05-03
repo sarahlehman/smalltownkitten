@@ -4,39 +4,45 @@
     {{ if eq .Type "post"}}
         <p class="subtitle is-5">{{ .Summary }}<br>
             <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span> / <span class="post-date">{{ .ReadingTime }} minute read</span>
-            <i id="sharebtn" class="fas fa-share-alt-square" aria-hidden="true"></i>
         </p>
     {{ end }}
     <div class="content">{{ .Content }}</div>
-    {{ if eq .Type "post" }}
-    <hr>
-    <p class="subtitle is-6">If you liked this post please consider <a>sharing<i id="sharebtn" class="fas fa-share-alt-square" aria-hidden="true"></i></a></p>
-    {{ if .PrevInSection }}
-    <p>read next:</p>
-    <div class="post">
-        <a href="{{ .PrevInSection.RelPermalink }}">
-            <h1 class="title is-5">{{ .PrevInSection.Title }}</h1>
-            <p class="subtitle is-6"><p class="subtitle is-6">{{ .PrevInSection.Summary }}<br><span class="post-date">{{ .PrevInSection.Date.Format "Mon, Jan 2, 2006" }}</span> / <span class="post-date">{{ .PrevInSection.ReadingTime }} minute read</span></p>
-        </a>
-    </div>
-    {{ end }}
-    {{ end }}
 </div>
     {{ if eq .Type "post"}}
-        <!-- CSS -->
+    <!-- CSS -->
     {{ $scss := resources.Get "scss/postend.scss" }}
     {{ $options := (dict "includePaths" (slice "node_modules")) }}
     {{ $style := $scss | resources.ToCSS $options | resources.Minify }}
     <style type="text/css">
         {{ $style.Content | safeCSS }}
     </style>
-    <div class="post post-lite">
-        read more posts tagged:
-        <div class="tagscontainer">
-            {{ range .Page.Params.Tags }}
-                <a class="tag" href="{{ ( printf "/tags/%s/" . ) }}">{{ . }}</a>
-            {{ end }}
+    <div class="post-end">
+        <div class="post share-container">
+            <p>If you enjoyed this post please consider sharing:</p>
+            <div class="post">
+            <div class="button is-info">share</div>
+            </div>
+        </div>
+        {{ if .PrevInSection }}
+            <div class="post">
+                <p>read next:</p>
+                <div class="post">
+                    <a href="{{ .PrevInSection.RelPermalink }}">
+                        <h1 class="title is-5">{{ .PrevInSection.Title }}</h1>
+                        <p class="subtitle is-6"><p class="subtitle is-6">{{ .PrevInSection.Summary }}<br><span class="post-date">{{ .PrevInSection.Date.Format "Mon, Jan 2, 2006" }}</span> / <span class="post-date">{{ .PrevInSection.ReadingTime }} minute read</span></p>
+                    </a>
+                </div>
+            </div>
+        {{ end }}
+        <div class="post">
+            <p>read more posts tagged:</p>
+            <div class="post tagscontainer">
+                {{ range .Page.Params.Tags }}
+                    <a class="tag" href="{{ ( printf "/tags/%s/" . ) }}">{{ . }}</a>
+                {{ end }}
+            </div>
         </div>
     </div>
+    
 {{ end }}
 {{ end }}
