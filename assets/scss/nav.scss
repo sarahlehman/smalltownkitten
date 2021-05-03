@@ -26,12 +26,13 @@
     line-height: 1;
     font-family: $logo-font;
     font-weight: 600;
-    color: $off-white;
+    color: $white;
     font-size: 1.8rem;
     padding-left: 5px;
 }
 
 .stknav {
+    background-color: $off-white;
     display: flex;
     justify-content: space-between;
     align-items: center;
