@@ -29,8 +29,13 @@
 }
 
 #followMeBtn {
-    color: $cyan;
+        color: $green;
 }
+
+#followMeBtn:hover {
+        color: $dark;
+}
+
 
 .foot-brand {
     padding-left: .5rem;
