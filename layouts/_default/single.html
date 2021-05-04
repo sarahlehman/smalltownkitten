@@ -3,7 +3,7 @@
     <h1 class="title is-4">{{ .Title }}</h1>
     {{ if eq .Type "post"}}
         <p class="subtitle is-5">{{ .Summary }}<br>
-            <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span> / <span class="post-date">{{ .ReadingTime }} minute read</span>
+            <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }} &#8226; {{ .ReadingTime }} minute read</span>
         </p>
     {{ end }}
     <div class="content">{{ .Content }}</div>
@@ -29,7 +29,7 @@
                 <div class="post post-link post-white">
                     <a href="{{ .PrevInSection.RelPermalink }}">
                         <h1 class="title is-5">{{ .PrevInSection.Title }}</h1>
-                        <p class="subtitle is-6"><p class="subtitle is-6">{{ .PrevInSection.Summary }}<br><span class="post-date">{{ .PrevInSection.Date.Format "Mon, Jan 2, 2006" }}</span> / <span class="post-date">{{ .PrevInSection.ReadingTime }} minute read</span></p>
+                        <p class="subtitle is-6"><p class="subtitle is-6">{{ .PrevInSection.Summary }}<br><span class="post-date">{{ .PrevInSection.Date.Format "Mon, Jan 2, 2006" }} &#8226; {{ .ReadingTime }} minute read</span></p>
                     </a>
                 </div>
             </div>
