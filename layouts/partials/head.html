@@ -9,14 +9,6 @@
       {{ if $.Site.Params.enableAnalytics }}
       <script async defer data-domain="blog.smalltownkitten.com" src="https://plausible.io/js/plausible.js"></script>
       {{ end }}
-      {{ if or .IsHome (eq .Type "post") }}
-            {{ $js := resources.Get "js/maintainScroll.js" }}
-            {{ $secureJS := $js | resources.Minify | resources.Fingerprint }}
-            <script type="text/javascript"
-            src="{{ $secureJS.RelPermalink }}"
-            integrity="{{ $secureJS.Data.Integrity }}"
-            crossorigin="anonymous" defer></script>
-      {{ end }}
       {{ if eq .Type "post" }}
             {{ $js := resources.Get "js/sharePost.js" }}
             {{ $secureJS := $js | resources.Minify | resources.Fingerprint }}
