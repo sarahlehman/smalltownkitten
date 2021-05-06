@@ -6,7 +6,8 @@
     "tags": [
         "media",
         "sickofit"
-    ]
+    ],
+    "Img": "https://s3.amazonaws.com/smalltownkitten.com-images/i-refuse-to-watch-another-morning-routine-video.jpg"
 }
 I get into a morning routine rabbit hole pretty often. It’s usually
 midnight on a weekend and I find myself watching videos like “A Healthy
