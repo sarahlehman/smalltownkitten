@@ -56,10 +56,10 @@ stuff.”*
 
 “After I’ve had my water, I do three hours of mindful stretching and
 yoga, followed by one hour of meditation.” *Somehow it’s still only 5AM.
-Time has stopped for this person. Fuck the concept of time, and you know
-what fuck the laws of gravity too while we’re at it. Rules simply don’t
-apply here. It’s a timeless hellscape filled with essential oil
-diffusers and fiddle-leaf fig trees you aren’t sure are real or fake.*
+Time has stopped for this person. Fuck the space time continuum. The
+laws of physics simply don’t exist here. It is an eerie hellscape filled
+with essential oil diffusers and fiddle-leaf fig trees you aren’t sure
+are real or fake.*
 
 “By this time, my tummy is getting a little hungry for breakfast. I eat
 one egg white and drink a green smoothie.” *This person’s blender
