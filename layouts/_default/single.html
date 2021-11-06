@@ -18,24 +18,24 @@
     </style>
     <div class="post-end">
         <div id="sharecontainer" class="post share-container">
-            <p>if you enjoyed this post:</p>
+            <h2 class="is-size-6">if you enjoyed this post:</h2>
             <div class="post">
             <div id="sharebtn" class="button is-info is-inverted">share</div>
             </div>
         </div>
         {{ if .PrevInSection }}
             <div class="post">
-                <p>read next:</p>
+                <h2 class="is-size-6">read next:</h2>
                 <div class="post post-link post-white">
                     <a href="{{ .PrevInSection.RelPermalink }}">
-                        <h1 class="title is-5">{{ .PrevInSection.Title }}</h1>
+                        <h3 class="title is-5">{{ .PrevInSection.Title }}</h3>
                         <p class="subtitle is-6"><p class="subtitle is-6">{{ .PrevInSection.Summary }}<br><span class="post-date">{{ .PrevInSection.Date.Format "Mon, Jan 2, 2006" }} &#8226; {{ .ReadingTime }} minute read</span></p>
                     </a>
                 </div>
             </div>
         {{ end }}
         <div class="post">
-            <p>read more posts tagged:</p>
+            <h2 class="is-size-6">read more posts tagged:</h2>
             <div class="post tagscontainer">
                 {{ range .Page.Params.Tags }}
                     <a class="tag" href="{{ ( printf "/tags/%s/" . ) }}">{{ . }}</a>

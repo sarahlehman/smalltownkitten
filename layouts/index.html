@@ -5,6 +5,7 @@
     <style type="text/css">
     {{ $style.Content | safeCSS }}
     </style>
+    <h1 class="visually-hidden">Posts</h1>
     {{ $isFirst := true }}
     {{ range (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
         {{ if $isFirst }}
@@ -12,7 +13,7 @@
             <div class="featured block">
                 <div id="featuredpost" class="post post-link">
                 <a href="{{ .RelPermalink }}">
-                    <h1 class="title is-4">{{ .Title }}</h1>
+                    <h2 class="title is-4">{{ .Title }}</h2>
                     <p class="subtitle is-5"><p class="subtitle is-5">{{ .Summary }}<br><span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }} &#8226; {{ .ReadingTime }} minute read</span></p>
                     <div class="content">
                     {{ .Content | truncate $.Site.Params.featureLen }}
@@ -23,7 +24,7 @@
         {{ else }}
             <div class="post post-link post-lite block">
                 <a href="{{ .RelPermalink }}">
-                <h1 class="title is-5">{{ .Title }}</h1>
+                <h2 class="title is-5">{{ .Title }}</h2>
                 <p class="subtitle is-5"><p class="subtitle is-6">{{ .Summary }}<br><span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }} &#8226; {{ .ReadingTime }} minute read</span></p>
                 </a>
             </div>

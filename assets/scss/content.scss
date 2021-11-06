@@ -8,6 +8,14 @@
   max-width: 75ch;
 }
 
+.visually-hidden {
+    position: absolute;
+    left: -10000px;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+
 .post {
     width: 100%;
     padding: 1rem;
