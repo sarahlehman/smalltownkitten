@@ -4,7 +4,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Assistant&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&display=swap');
 
-$green: #9ed2ae;
+$green: #00870c;
+$green-light: #9ed2ae;
 $green-dark: darken($green, 20%);
 $cyan: #2ad4ff;
 $primary: $cyan;
@@ -16,8 +17,7 @@ $subtitle-family: 'Source Sans Pro', sans-serif;
 $button-family: $subtitle-family;
 $family-primary: $family-sans-serif;
 $logo-font: $title-family;
-$off-white:  #fafafa;
-//$off-white:  #f4f4f4;
+$off-white: darken(#fafafa, 2%);
 
 $body-size: 18px;
 
@@ -28,4 +28,3 @@ $link-visited: $green-dark;
 $link-hover: $green;
 
 @import "./bulma/sass/base/_all.sass";
-@import "./bulma/sass/elements/container.sass";

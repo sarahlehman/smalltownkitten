@@ -5,17 +5,21 @@
 <style type="text/css">
      {{ $style.Content | safeCSS }}
 </style>
+<footer>
 <div data-nosnippet class="footer">
     <div class="foot-flex post">
-        <div class="foot-nav">
-            <ul>
-                <li><div class="button"><a href="/">home</a></div></li>
-                <li><div class="button"><a href="/about/">about</a></div></li>
-                <li><div class="button"><a href="/post/">index</a></div></li>
-                <li><div class="button"><a href="/tags/">tags</a></div></li>
-            </ul>
-        </div>
+        <nav role="navigation" aria-label="Main">
+            <div class="foot-nav">
+                <ul>
+                    <li><div class="button"><a href="/">home</a></div></li>
+                    <li><div class="button"><a href="/about/">about</a></div></li>
+                    <li><div class="button"><a href="/post/">index</a></div></li>
+                    <li><div class="button"><a href="/tags/">tags</a></div></li>
+                </ul>
+            </div>
+        </nav>
         <div class="foot-social">
+            <h2 class="visually-hidden">Social Links</h2>
             <ul>
                 <li><div class="button"><a href="https://twitter.com/smalltownkitten" id="followMeBtn"><i class="fab fa-twitter" aria-hidden="true"></i>follow me</a></div></li>
                 <li><div class="button"><a href="/subscribe"><i class="fas fa-inbox" aria-hidden="true"></i>join my mailing list</a></div></li>
@@ -23,11 +27,11 @@
                 <li><div class="button"><a href="https://github.com/sarahlehman/smalltownkitten"><i class="fab fa-github" aria-hidden="true"></i>view the code</a></div></li>
                 <li>
                     <div class="foot-brand">
-                        <h3 class="title is-3">
+                        <p class="title is-3">
                         small<br>
                         town<br>
                         kitten
-                        </h3>
+                        </p>
                         &copy; Sarah Lehman {{ now.Format "2006"}}
                     </div>
                 </li>
@@ -35,3 +39,4 @@
         </div>
     </div>
 </div>
+</footer>

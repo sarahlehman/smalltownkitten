@@ -21,11 +21,11 @@
       {{ $style.Content | safeCSS }}
     </style>
     <div class="index-container">
-        <div class="title is-4">{{ if eq .Type "tags" }}#{{ end }}{{ .Title }}</div>
+        <h1 class="title is-4">{{ if eq .Type "tags" }}#{{ end }}{{ .Title }}</h1>
         <ul>
             {{ range .Data.Pages.GroupByDate "2006" }}
             <div class="block">
-                <div class="title is-5">{{ .Key }}</div>
+                <h2 class="title is-5">{{ .Key }}</h2>
                 <ul class="index-posts">
                 {{ range .Pages }}                    
                         <li><a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a></li>

@@ -2,10 +2,14 @@
 <html lang="{{- site.Language.Lang -}}" data-theme="{{- .Site.Params.displayMode -}}">
 {{- partial "head.html" . -}}
 <body>
-<div class="container is-max-desktop main">
+<div class="container main">
     <div class="stkcontainer">
-        {{- partial "nav.html" . -}}
-        {{- block "main" . }}{{- end }}
+        <Header>
+            {{- partial "nav.html" . -}}
+        </Header>
+        <main>
+            {{- block "main" . }}{{- end }}
+        </main>
         {{- partial "footer.html" . -}}
     </div>
 </div>

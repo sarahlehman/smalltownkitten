@@ -19,7 +19,9 @@
 .share-container {
     .button {
         width: 100%;
-        color: $off-white;
+        border: 2px;
+        border-color: $green-light;
+        border-style: solid;
     }
     .post {
         padding-left: 0px;

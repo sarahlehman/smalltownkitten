@@ -1,5 +1,21 @@
 @import "./bulma/sass/elements/content.sass";
 
+.container {
+  flex-grow: 1;
+  margin: 0 auto;
+  position: relative;
+  width: auto;
+  max-width: 75ch;
+}
+
+.visually-hidden {
+    position: absolute;
+    left: -10000px;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+
 .post {
     width: 100%;
     padding: 1rem;
@@ -36,4 +52,9 @@
 
 .content {
     line-height: 1.75;
+}
+
+code {
+    color: $dark !important;
+    background-color: $off-white !important;
 }
