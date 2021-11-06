@@ -1,5 +1,13 @@
 @import "./bulma/sass/elements/content.sass";
 
+.container {
+  flex-grow: 1;
+  margin: 0 auto;
+  position: relative;
+  width: auto;
+  max-width: 75ch;
+}
+
 .post {
     width: 100%;
     padding: 1rem;
