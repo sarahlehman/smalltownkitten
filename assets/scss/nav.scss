@@ -1,6 +1,11 @@
 
 .stktop {
     width: 100%;
+    padding-top: 8px;
+    border-bottom: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: $green-light;
+    border-radius: 4px;
 }
 
 .stkbrand {
@@ -24,23 +29,23 @@
     padding-right: 8px;
     line-height: 1;
     font-family: $logo-font;
-    font-weight: 600;
+    font-weight: 300;
     font-size: 1.8rem;
     padding-left: 5px;
 }
 
 .stknav {
-    background-color: darken($off-white, 1%);
+    //background-color: darken($off-white, 1%);
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding-left: 8px;
     font-size: 16px !important;
     height: 48px;
-    border-bottom: 2px;
-    border-bottom-style: solid;
-    border-bottom-color: $green-light;
-    
+    border-radius:4px;
+    border: 2px solid $dark;
+    border-left: 0px;
+    border-right: 0px;
 }
 
 #navlinks {
