@@ -2,16 +2,16 @@
 <html lang="{{- site.Language.Lang -}}" data-theme="{{- .Site.Params.displayMode -}}">
 {{- partial "head.html" . -}}
 <body>
-<div class="container main">
-    <div class="stkcontainer">
+<div class="main">
         <Header>
             {{- partial "nav.html" . -}}
         </Header>
         <main>
-            {{- block "main" . }}{{- end }}
+            <div class="container">
+                {{- block "main" . }}{{- end }}
+            </div>
         </main>
         {{- partial "footer.html" . -}}
-    </div>
 </div>
 <link rel="stylesheet" 
 href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" 

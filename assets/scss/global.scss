@@ -7,7 +7,16 @@ html, body {
     background-color: $white;
 }
 
+$lg-screen-size: 75ch;
+@mixin lg-screen {
+    @media (min-width: $lg-screen-size+1) {
+        @content;
+    }
+}
+
 @import "./nav.scss";
 @import "./content.scss";
+$title-size: 1.4rem;
+$subtitle-size: 1.4rem;
 @import "./bulma/sass/elements/title.sass";
 @import "./buttons.scss";

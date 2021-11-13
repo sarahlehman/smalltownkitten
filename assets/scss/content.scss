@@ -8,6 +8,10 @@
   max-width: 75ch;
 }
 
+.u-mw-ipad {
+    max-width: $lg-screen-size
+}
+
 .visually-hidden {
     position: absolute;
     left: -10000px;
@@ -44,7 +48,7 @@
 }
 
 .post-date {
-    font-family: $family-primary !important;
+    font-family: $title-family;
     font-size: 1rem !important;
     color: $green;
 }
