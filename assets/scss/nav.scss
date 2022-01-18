@@ -2,7 +2,7 @@
 .stktop {
     width: 100%;
     padding-top: 8px;
-    border-bottom: 3px;
+    border-bottom: 2px;
     border-bottom-style: solid;
     border-bottom-color: $green-light;
     border-radius: 4px;
@@ -43,11 +43,11 @@
     font-size: 16px !important;
     height: 48px;
     border-radius:4px;
-    border-top: 2px solid $dark;
-    border-bottom: 2px solid $dark;
+    border-top: 1px solid $dark;
+    border-bottom: 1px solid $dark;
     @include lg-screen {
-        border-left: 2px solid $dark;
-        border-right:2px solid $dark;
+        border-left: 1px solid $dark;
+        border-right:1px solid $dark;
     }
 }
 
