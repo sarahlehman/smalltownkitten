@@ -1,8 +1,8 @@
 {{ define "main" }}
 <div class="post post-main">
-    <h1 class="title is-4">{{ .Title }}</h1>
+    <h1 class="title">{{ .Title }}</h1>
     {{ if eq .Type "post"}}
-        <p class="subtitle is-5">{{ .Summary }}<br>
+        <p class="subtitle">{{ .Summary }}<br>
             <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }} &#8226; {{ .ReadingTime }} minute read</span>
         </p>
     {{ end }}

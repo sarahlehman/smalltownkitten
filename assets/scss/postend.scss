@@ -5,13 +5,8 @@
     .post {
         border: none;
         padding-bottom: .5rem;
-        background-color: $off-white;
         .subtitle {
             margin-bottom: 0px;
-        }
-        .post-white {
-            background-color: $white;
-            border-radius: .5rem;
         }
     }
 }
@@ -19,9 +14,7 @@
 .share-container {
     .button {
         width: 100%;
-        border: 2px;
-        border-color: $green-light;
-        border-style: solid;
+        border: solid 1px $dark;
     }
     .post {
         padding-left: 0px;
