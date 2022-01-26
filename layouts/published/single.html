@@ -1,0 +1,12 @@
+{{ define "main" }}
+    {{ range $.Site.Data.published.works }}
+        <div class="post post-lite post-link">
+            <a href="{{ .link }}">
+                <h1 class="title">{{ .title }}</h2>
+                <h2 class="subtitle post-date">
+                    {{ .publication }}&#x2002;&#8226;&#x2002;{{ .month }}
+                </h2>
+            </a>
+        </div>
+    {{ end }}
+{{ end }}

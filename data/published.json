@@ -1,0 +1,22 @@
+{
+    "works": [
+        {
+            "title": "I Endured an Unphotographed Hiking Trip",
+            "month": "January 2022",
+            "publication": "WryTimes",
+            "link": "https://wrytimes.com/i-endured-an-unphotographed-hiking-trip/"
+        },
+        {
+            "title": "I'm Your 40oz Water Bottle, and This Has Been an Emotional Roller Coaster",
+            "month": "December 2021",
+            "publication": "Points in Case",
+            "link": "https://www.pointsincase.com/articles/im-your-40-ounce-water-bottle-and-this-has-been-an-emotional-rollercoaster?s=09"
+        },
+        {
+            "title": "BREAKING: Male Co-Worker Notices Haircut",
+            "month": "November 2021",
+            "publication": "Flexx Mag",
+            "link": "https://www.flexxmag.com/news/breaking-male-co-worker-notices-haircut"
+        }
+    ]
+}
