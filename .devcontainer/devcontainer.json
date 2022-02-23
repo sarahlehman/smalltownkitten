@@ -41,7 +41,11 @@
 	"remoteUser": "node",
 	"features": {
 		"powershell": "latest",
-		"git": "os-provided"
+		"git": "os-provided",
+		"docker-from-docker": {
+			"version": "latest",
+			"moby": true
+		},
 	},
 	"postCreateCommand": "cd /workspaces/smalltownkitten && npm install"
 }
