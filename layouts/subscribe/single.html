@@ -1,8 +1,7 @@
 {{ define "main" }}
 <!-- CSS -->
-{{ $scss := resources.Get "scss/subscribe.scss" }}
-{{ $options := (dict "includePaths" (slice "node_modules")) }}
-{{ $style := $scss | resources.ToCSS $options | resources.Minify }}
+{{ $scss := resources.Get "subscribe.css" }}
+{{ $style := $scss | resources.Minify }}
 <style type="text/css">
      {{ $style.Content | safeCSS }}
 </style>

@@ -1,8 +1,7 @@
 {{ define "main" }}
 <div class="post post-main">
-    {{ $scss := resources.Get "scss/tagcloud.scss" }}
-    {{ $options := (dict "includePaths" (slice "node_modules")) }}
-    {{ $style := $scss | resources.ToCSS $options | resources.Minify }}
+    {{ $scss := resources.Get "tagcloud.css" }}
+    {{ $style := $scss | resources.Minify }}
     <style type="text/css">
       {{ $style.Content | safeCSS }}
     </style>
@@ -14,9 +13,8 @@
         {{ end }}
     </div>
     {{ else }}
-    {{ $scss := resources.Get "scss/postindex.scss" }}
-    {{ $options := (dict "includePaths" (slice "node_modules")) }}
-    {{ $style := $scss | resources.ToCSS $options | resources.Minify }}
+    {{ $scss := resources.Get "postindex.css" }}
+    {{ $style := $scss | resources.Minify }}
     <style type="text/css">
       {{ $style.Content | safeCSS }}
     </style>

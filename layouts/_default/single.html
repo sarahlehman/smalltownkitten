@@ -10,9 +10,8 @@
 </div>
     {{ if eq .Type "post"}}
     <!-- CSS -->
-    {{ $scss := resources.Get "scss/postend.scss" }}
-    {{ $options := (dict "includePaths" (slice "node_modules")) }}
-    {{ $style := $scss | resources.ToCSS $options | resources.Minify }}
+    {{ $scss := resources.Get "postend.css" }}
+    {{ $style := $scss | resources.Minify }}
     <style type="text/css">
         {{ $style.Content | safeCSS }}
     </style>

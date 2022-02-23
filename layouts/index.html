@@ -1,7 +1,6 @@
 {{ define "main" }}
-    {{ $scss := resources.Get "scss/index.scss" }}
-    {{ $options := (dict "includePaths" (slice "node_modules")) }}
-    {{ $style := $scss | resources.ToCSS $options | resources.Minify }}
+    {{ $scss := resources.Get "index.css" }}
+    {{ $style := $scss | resources.Minify }}
     <style type="text/css">
     {{ $style.Content | safeCSS }}
     </style>
