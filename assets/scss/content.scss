@@ -24,7 +24,7 @@
     width: 100%;
     padding: 1rem;
     .subtitle {
-        margin-bottom: 1rem;
+        margin-bottom: .5rem;
     }
 }
 
@@ -46,15 +46,17 @@
         color: $black;
     }
 }
-
 .post-date {
     font-family: $title-family;
     font-size: 1rem !important;
-    color: $green !important;
+    background: -webkit-linear-gradient(93deg, rgba(197,34,51,1) 13%, rgba(63,136,197,1) 86%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .content {
-    line-height: 1.75;
+    line-height: 1.65;
 }
 
 code {

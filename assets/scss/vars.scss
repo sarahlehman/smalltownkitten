@@ -1,19 +1,19 @@
 @charset "utf-8";
 
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300;400&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Just+Another+Hand&family=Kalam:wght@300&family=Over+the+Rainbow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
 
 
-$green: #00870c;
-$green-light: #9ed2ae;
-$green-dark: darken($green, 20%);
-$cyan: #2ad4ff;
-$primary: $cyan;
-$info: $green;
+$blue: hsl(207, 54%, 51%);
+$red: hsl(354, 71%, 45%);
+$yellow: hsl(54, 100%, 64%);
+$primary: $blue;
+$dark: hsl(0, 0%, 0%);
+$grey: hsl(0, 0%, 18%);
+
 
 $family-sans-serif: 'Assistant', sans-serif;
-$title-family: 'Source Sans Pro', sans-serif;
+$title-family: $family-sans-serif;
 $handwritten-family: 'Kalam', sans-serif;
 $subtitle-family: $family-sans-serif;
 $family-primary: $family-sans-serif;
@@ -21,16 +21,21 @@ $button-family: $family-primary;
 $logo-font: $handwritten-family;
 $off-white: darken(#fafafa, 2%);
 
-
 $body-size: 18px;
 $title-size:1.5rem;
+$subtitle-size: 1.25rem;
 $title-weight: 400;
+$title-line-height: 1.4rem;
+$subtitle-line-height: 1.4rem;
 $subtitle-weight: 300;
+$body-weight: 300;
 
 @import "./bulma/sass/utilities/_all.sass";
 
 $link: $dark;
-$link-visited: $green-dark;
-$link-hover: $green;
+$link-visited: $grey;
+$link-hover: $primary;
+$info: $primary;
+
 
 @import "./bulma/sass/base/_all.sass";

@@ -1,11 +1,16 @@
 
 .stktop {
+    box-sizing: border-box;
     width: 100%;
     padding-top: 8px;
-    border-bottom: 2px;
-    border-bottom-style: solid;
-    border-bottom-color: $green-light;
+    background: linear-gradient(white, white),
+                linear-gradient(93deg, rgba(197,34,51,1) 13%, rgba(63,136,197,1) 51%, rgba(255,237,71,1) 86%);
+    border-bottom: 5px solid transparent;
     border-radius: 4px;
+    background-repeat: no-repeat;
+    background-origin: padding-box, border-box;
+    border-width: 6px;
+    position: relative;
 }
 
 .stkbrand {
@@ -22,7 +27,6 @@
     display: flex;
     justify-content: left;
     align-items: center;
-    //color: darken($green, 45%);
 }
 
 .brandtext {
@@ -43,11 +47,15 @@
     font-size: 16px !important;
     height: 48px;
     border-radius:4px;
+    border-bottom-left-radius:0px;
+    border-bottom-right-radius:0px;
     border-top: 1px solid $dark;
     border-bottom: 1px solid $dark;
+    margin-bottom: -1px;
+
     @include lg-screen {
         border-left: 1px solid $dark;
-        border-right:1px solid $dark;
+        border-right: 1px solid $dark;
     }
 }
 
