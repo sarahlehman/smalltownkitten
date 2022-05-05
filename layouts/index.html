@@ -1,23 +1,12 @@
 {{ define "main" }}
-    {{ $scss := resources.Get "scss/index.scss" }}
-    {{ $options := (dict "includePaths" (slice "node_modules")) }}
-    {{ $style := $scss | resources.ToCSS $options | resources.Minify }}
-    <style type="text/css">
-    {{ $style.Content | safeCSS }}
-    </style>
-    <h1 class="visually-hidden">Posts</h1>
-    {{ $isFirst := true }}
-    {{ range (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
-            <div class="featured block">
-                <div class="post post-link">
-                <a href="{{ .RelPermalink }}">
-                    <h2 class="title">{{ .Title }}</h2>
-                    <p class="subtitle">{{ .Summary }}<br><span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }} &#8226; {{ .ReadingTime }} minute read</span></p>
-                    <div class="content">
-                    {{ .Content | truncate $.Site.Params.featureLen }}
-                    </div>
-                </a>
-                </div>
-            </div>
+    {{ range $.Site.Data.published.works }}
+        <div class="post post-lite post-link">
+            <a href="{{ .link }}">
+                <h1 class="title">{{ .title }}</h2>
+                <h2 class="subtitle post-date">
+                    {{ .publication }}&#x2002;&#8226;&#x2002;{{ .month }}
+                </h2>
+            </a>
+        </div>
     {{ end }}
 {{ end }}
